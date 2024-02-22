@@ -14,4 +14,6 @@ Quando un percorso è validato, viene interrotta la sincronizzazione automatica 
 
 È comunque possibile, per gli utenti abilitati, forzare la sincronizzazione dopo aver declassato il percorso alla Stato di accatastamento uguale a 3; per poi riprocedere con la validazione dello stesso.
 
+Fare riferimento alla sezione apposita per ulteriori dettagli sul processo di validazione, raggiungibile qui [Dettaglio percorso e validazione](https://catastorei.gitbook.io/documentazione-osm2cai/interfaccia-utente/resources/territorio/percorsi-escursionistici-sda#dettaglio-percorso-e-validazione)
+
 \
