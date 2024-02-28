@@ -1,5 +1,30 @@
 # Changelog piattaforma
 
+### 233.15.1 (2024-02-27)
+
+#### Bug Fixes
+
+* fixed osm\_id update command
+
+### 233.15.0 (2024-02-27)
+
+#### Features
+
+* added filters to ecpois
+* added region favorite to content tab in metadata field in hiking route detail&#x20;
+* created command to update pois with missing osm type
+* limited value length on regione field on hiking routes section
+
+#### Bug Fixes
+
+* bug fix on osm type
+* bug fix on stato di accatastamento card in hiking route details
+* command fix
+* fix zip download on ugc tracks
+* fixed
+* hut sync sleep
+* sync huts attemps and sleep&#x20;
+
 ### 233.14.0 (2024-02-21)
 
 #### Features
