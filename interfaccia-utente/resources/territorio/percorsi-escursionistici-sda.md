@@ -187,8 +187,8 @@ In questa parte è possibile visualizzare le seguenti informazioni:
 | Automatic Name (computed for TDH)     | mostra il campo generato automaticamente relativo al nome del percorso                                                                                                                                                                                                        |
 | Automatic Abstract (computed for TDH) | mostra il campo generato automaticamente relativo alla descrizione del percorso                                                                                                                                                                                               |
 | Feature Image                         | mostra la presenza o meno dell'immagine associata al percorso                                                                                                                                                                                                                 |
+| Description CAI IT                    | mostra la descrizione del percorso inserita dall'utente                                                                                                                                                                                                                       |
 | Region Favorite                       | <p>mostra la presenza o meno della selezione <br>percorso favorito</p><p>-<img src="../../../.gitbook/assets/image (68).png" alt=""> percorso segnalato come favorito<br>-<img src="../../../.gitbook/assets/image (69).png" alt=""> percorso non segnalato come favorito</p> |
-| Description CAI IT                    | mostra la descrizione del percorso inserita dal Referente                                                                                                                                                                                                                     |
 
 
 {% endtab %}
