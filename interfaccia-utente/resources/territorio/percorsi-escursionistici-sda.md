@@ -23,15 +23,17 @@ In questa sezione viene mostrato l'elenco dei percorsi escursionistici presenti 
 
 I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (73).png>), accanto al nome.
 
-### Filtro
+### Filtri
 
-**Filtro SDA**\
+#### **Filtro SDA**
+
 Questo filtro permette di visualizzare solo i percorsi con uno specifico stato di accatastamento.
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Esempio filtro per Stato di accatastamento</p></figcaption></figure>
 
-**Altri filtri disponibili**\
-sono implementati altri filtri per migliorare la ricerca dei percorsi
+#### **Altri filtri disponibili**
+
+sono implementati i seguenti filtri per migliorare la ricerca dei percorsi
 
 <figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>F<strong>iltri disponibili</strong></p></figcaption></figure>
 
@@ -47,7 +49,7 @@ sono implementati altri filtri per migliorare la ricerca dei percorsi
 | STATO DI PERCORRENZA                | filtro per stato di percorribilità dei percorsi                               |
 | CORRETTEZZA GEOMETRIA               | filtro per corretta della geometria dei percorsi                              |
 
-### Dettaglio percorso e validazione
+### Dettaglio percorso
 
 Per ogni percorso è disponibile una pagina riepilogativa dove vengono mostrati i dati relativi presenti nel database OSM2CAI, e dove è possibile procedere alla verifica dei dati e successivamente alla validazione per percorso
 
@@ -88,23 +90,73 @@ In questa parte è possibile visualizzare le seguenti informazioni:
 | Coerenza ref REI      | <p>mostra o meno la coerenza del codice REI, tra quello calcolato e quello presente su OpenStreetMap</p><p>-<img src="../../../.gitbook/assets/image (68).png" alt=""> codice REI coerente<br>-<img src="../../../.gitbook/assets/image (69).png" alt=""> codice REI non coerente</p>                                          |
 | Geometry Sync         | <p>mostra o meno la sincronizzazione della geometria del percorso, tra quella presente su OpenStreetMap e quella nel database OSM2CAI</p><p>-<img src="../../../.gitbook/assets/image (68).png" alt=""> geometria sincronizzata<br>-<img src="../../../.gitbook/assets/image (69).png" alt=""> geometria non sincronizzata</p> |
 
-#### Azioni disponibili
+### Azioni disponibili
 
 In questa parte è possibile svolgere le seguenti azioni:
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Azioni disponibili</p></figcaption></figure>
 
-| CAMPO                         | DESCRIZIONE                                                                                                                                                                                                                                                                                                                                                           |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| UPLOAD GPX/KML/GEOJSON        | <p>permette il caricamento di una traccia ricavata da un rilievo fatto sul percorso<br><br><strong>ATTENZIONE</strong>: il file che verrà caricato servirà esclusivamente per essere confrontato con la traccia presente nel Catasto/OpenStreetMap; in caso di validazione sarà la traccia del Catasto/OpenStreetMap (in mappa di colore blu) ad essere validata.</p> |
-| VALIDATE                      | <p>permette di validare un percorso<br><br><strong>ATTENZIONE:</strong> solo i percorsi in stato di accatastamento 3 possono essere validati, ed è necessario caricare un traccia del rilievo per il confronto</p>                                                                                                                                                    |
-| SYNC WITH OSM DATA            | permette di forzare la sincronizzazione dei dati OM2CAI <> OpenStreetMap, senza attendere il normale tempo di sincronizzazione (48 ore)                                                                                                                                                                                                                               |
-| REVERT VALIDATION             | permette di riportare in stato di accatastamento 3 un percorso validato, per permettere di poterlo aggiornare e rivalidarlo successivamente                                                                                                                                                                                                                           |
-| ELIMINA                       | <p>permette di eliminare un percorso dal database di OSM2CAI.<br><br><strong>ATTENZIONE:</strong> un percorso può essere eliminato da OSM2CAI esclusivamente se il percorso è stato eliminato su OpenStreetMap</p>                                                                                                                                                    |
-| REFATTORIZZAZIONE SETTORI     | permette di rigenerare la lista dei settori, nel caso di modiche effettuate dagli amministratori                                                                                                                                                                                                                                                                      |
-| PERCORSO FAVORITO             | permette di inserire il percorso tra i favoriti e aggiunge una descrizione e un'immagine. Fare riferimento alla sezione apposita: [Percorsi favoriti](../../dashboard/percorsi-favoriti.md)                                                                                                                                                                           |
-| DATA PUBBLICAZIONE LOSCARPONE | permette di programma la data di pubblicazione sullo Scarpone                                                                                                                                                                                                                                                                                                         |
-| PERCORRIBILITÀ                | permette di aggiornare lo stato di percorribilità del percorso                                                                                                                                                                                                                                                                                                        |
+| CAMPO                         | DESCRIZIONE                                                                                                                                                                                 |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| UPLOAD GPX/KML/GEOJSON        | permette il caricamento di una traccia ricavata da un rilievo fatto sul percorso                                                                                                            |
+| VALIDATE                      | permette di validare un percorso                                                                                                                                                            |
+| SYNC WITH OSM DATA            | permette di forzare la sincronizzazione dei dati OM2CAI <> OpenStreetMap, senza attendere il normale tempo di sincronizzazione (48 ore)                                                     |
+| REVERT VALIDATION             | permette di riportare in stato di accatastamento 3 un percorso validato, per permettere di poterlo aggiornare e rivalidarlo successivamente                                                 |
+| ELIMINA                       | permette di eliminare un percorso dal database di OSM2CAI.                                                                                                                                  |
+| REFATTORIZZAZIONE SETTORI     | permette di rigenerare la lista dei settori, nel caso di modiche effettuate dagli amministratori                                                                                            |
+| PERCORSO FAVORITO             | permette di inserire il percorso tra i favoriti e aggiunge una descrizione e un'immagine. Fare riferimento alla sezione apposita: [Percorsi favoriti](../../dashboard/percorsi-favoriti.md) |
+| DATA PUBBLICAZIONE LOSCARPONE | permette di programma la data di pubblicazione sullo Scarpone                                                                                                                               |
+| PERCORRIBILITÀ                | permette di aggiornare lo stato di percorribilità del percorso                                                                                                                              |
+
+#### Caricamento traccia di confronto
+
+Tramite la action \<UPLOAD GPX/KML/GEOJSON> è possibile carica una traccia di confronto, ricavata da un rilievo sul campo
+
+<figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Il file che verrà caricato servirà esclusivamente per essere confrontato con la traccia presente nel Catasto/OpenStreetMap; in caso di validazione sarà la traccia del Catasto/OpenStreetMap (in mappa di colore blu) ad essere validata.
+{% endhint %}
+
+#### Validazione
+
+Tramite la action \<VALIDATE> è possibile validare un percorso
+
+<figure><img src="../../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Un percorso può essere validato solo se è in [stato di accatastamento ](../../../piattaforma/definizioni/stato-di-accatastamento.md)uguale a 3; ed è necessario caricare un traccia del rilievo per il confronto
+{% endhint %}
+
+#### Forzare la sincronizzazione con OpenStreetMap
+
+Tramite la action \<SYNC WITH OSM DATA> è possibile forzare la sincronizzazione&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+La sincronizzazione ha validità fino alla mezzanotte del giorno in cui è stata effetuata; per motivi tecnici dopo tale orario la sincronizzazione automatica sovrascriverà con le informazioni non aggiornate
+{% endhint %}
+
+#### Revertare lo stato di accatastamento
+
+Tramite la action \<REVERT VALIDATION> permette di riportare lo stato di accatastamento di un percorso da 4 a 3.
+
+<figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+È possibile revertare lo [stato di accatastamento](../../../piattaforma/definizioni/stato-di-accatastamento.md) da 4 a 3, azione necessaria per permettere al sistema di sincronizzare le modifiche effetuate succesivamente alla validazione
+{% endhint %}
+
+#### Elimina percorso
+
+Tramite la action \<ELIMINA> è possibile eliminare un percorso da OSM2CAI
+
+<figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Un percorso può essere eliminato da OSM2CAI solo se è stata eliminata la corrispondente relazione su OpenStreetMap
+{% endhint %}
 
 #### Percorsi favoriti
 
@@ -112,7 +164,13 @@ Tramite la action \<PERCORSO FAVORITO> è inserire il percorso tra i favoriti, a
 
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Interfaccia di inserimento</p></figcaption></figure>
 
-#### Sezione metadata
+#### Percorribilità
+
+Tramite la action \<PERCORRIBILITÀ> è possibile aggiornare lo [stato di percorribilità](../../../piattaforma/definizioni/stato-di-percorribilita.md) di un percorso
+
+<figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+
+### Sezione metadata
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
