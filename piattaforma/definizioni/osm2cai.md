@@ -7,4 +7,6 @@
 * In OSM2CAI è possibile verificare e validare i percorsi
 * I percorsi validati confluiscono nel Catasto REI / INFOMONT&#x20;
 
-{% embed url="https://osm2cai.cai.it/" %}
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><strong>OSM2CAI.CAI.IT</strong></td><td></td><td><a href="https://osm2cai.cai.it/">https://osm2cai.cai.it/</a></td></tr></tbody></table>
