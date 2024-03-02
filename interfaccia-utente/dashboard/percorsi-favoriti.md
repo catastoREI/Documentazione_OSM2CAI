@@ -6,4 +6,4 @@ description: >-
 
 # Percorsi Favoriti
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Tabella riepilogativa dei percorsi favoriti</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Tabella riepilogativa dei percorsi favoriti</p></figcaption></figure>

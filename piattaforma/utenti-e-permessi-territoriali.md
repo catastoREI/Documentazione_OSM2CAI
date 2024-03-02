@@ -18,6 +18,9 @@ La gerarchia degli utenti della piattaforma OSM2CAI rispecchia la suddivisione t
 
 Vengono identificati i diversi livelli di accesso con permessi territoriali differenti; è possibile associare una qualsiasi area di competenza (settore, area, provincia o regione) ad un utente.&#x20;
 
+Gli Amministrari, i Referenti Nazionali e i Referenti Regionali possono modificare i metadati relativi ad altri utenti e effettuare l'assegnazione territoriale, per abilitarli ad operare sulla piattaforma.\
+Fare riferimento alla sezione apposita: [Utenti](../interfaccia-utente/resources/utenti.md)
+
 Qui di seguito ne vengono descritte le funzionalità principali
 
 ### Amministratore di sistema&#x20;
