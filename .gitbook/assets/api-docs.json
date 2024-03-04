@@ -12,6 +12,144 @@
         }
     },
     "paths": {
+        "/ecpois/bb/{bounding_box}/{type}": {
+            "get": {
+                "tags": [
+                    "Api V2"
+                ],
+                "summary": "Get Ec POIs by Bounding Box and Type",
+                "description": "Returns a list of Eco POIs within the specified bounding box and of the specified type",
+                "operationId": "97bcf071520059c2050854feb37446c1",
+                "parameters": [
+                    {
+                        "name": "bounding_box",
+                        "in": "path",
+                        "description": "Bounding box in 'minLng,minLat,maxLng,maxLat' format",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "type",
+                        "in": "path",
+                        "description": "Type of the POIs to retrieve: R for relation, W for way, N for node",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful operation",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "additionalProperties": {
+                                        "type": "string",
+                                        "format": "date-time"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/ecpois/{hr_osm2cai_id}/{type}": {
+            "get": {
+                "tags": [
+                    "Api V2"
+                ],
+                "summary": "Get EcPOIs in a 1km buffer from the HikingRoutes defined by ID",
+                "description": "Returns a list of Ec POIs around 1km from a specific OSM2CAI hiking route ID and of a specified type",
+                "operationId": "a8ef3e285d3e11aa1f4fdc208005930b",
+                "parameters": [
+                    {
+                        "name": "hr_osm2cai_id",
+                        "in": "path",
+                        "description": "OSM2CAI ID of the hiking route",
+                        "required": true,
+                        "schema": {
+                            "type": "integer"
+                        }
+                    },
+                    {
+                        "name": "type",
+                        "in": "path",
+                        "description": "Type of the POIs to retrieve",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful operation",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "additionalProperties": {
+                                        "type": "string",
+                                        "format": "date-time"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/ecpois/{hr_osm_id}/{type}": {
+            "get": {
+                "tags": [
+                    "Api V2"
+                ],
+                "summary": "Get EcPOIs in a 1km buffer from the HikingRoutes defined by OSM ID",
+                "description": "Returns a list of Ec POIs associated with a specific OpenStreetMap hiking route ID and of a specified type",
+                "operationId": "13ee9c0dfd82bee1921ef4c8117af255",
+                "parameters": [
+                    {
+                        "name": "hr_osm_id",
+                        "in": "path",
+                        "description": "OSM ID of the hiking route",
+                        "required": true,
+                        "schema": {
+                            "type": "integer"
+                        }
+                    },
+                    {
+                        "name": "type",
+                        "in": "path",
+                        "description": "Type of the POIs to retrieve",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful operation",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "additionalProperties": {
+                                        "type": "string",
+                                        "format": "date-time"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
         "/api/v2/itinerary/list": {
             "get": {
                 "tags": [
@@ -1396,6 +1534,658 @@
                                 }
                             }
                         }
+                    }
+                }
+            }
+        },
+        "/api/v2/mitur_abruzzo/region_list": {
+            "get": {
+                "tags": [
+                    "Api V2 - MITUR Abruzzo"
+                ],
+                "summary": "List all regions",
+                "description": "Returns a list of all regions with their ID and last updated timestamp. The update timestamp of an item in the database is formatted as 'YYYY-MM-DD-Thh:mm:ss+HH:M', adhering to the ISO8601 standard. This notation represents the date and time with an offset of hours (HH) and minutes (MM) from Coordinated Universal Time (UTC), ensuring a consistent formatting and interpretation across the globe.",
+                "operationId": "28a9a4f0e9b426878ab031d6fb721d68",
+                "responses": {
+                    "200": {
+                        "description": "Successful operation",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "properties": {
+                                            "id": {
+                                                "description": "The region ID",
+                                                "type": "integer"
+                                            },
+                                            "updated_at": {
+                                                "description": "Last update timestamp of the region",
+                                                "type": "string",
+                                                "format": "date-time"
+                                            }
+                                        },
+                                        "type": "object",
+                                        "example": {
+                                            "12": "2022-12-03 12:34:25",
+                                            "6": "2022-07-31 18:23:34",
+                                            "2": "2022-09-12 23:12:11"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request"
+                    },
+                    "404": {
+                        "description": "Not Found"
+                    }
+                }
+            }
+        },
+        "/api/v2/mitur_abruzzo/region/{id}": {
+            "get": {
+                "tags": [
+                    "Api V2 - MITUR Abruzzo"
+                ],
+                "summary": "Get Region by ID",
+                "description": "Returns a single region, including mountain groups and region geometry, by ID. The update timestamp of an item in the database is formatted as 'YYYY-MM-DD-Thh:mm:ss+HH:M', adhering to the ISO8601 standard. This notation represents the date and time with an offset of hours (HH) and minutes (MM) from Coordinated Universal Time (UTC), ensuring a consistent formatting and interpretation across the globe.",
+                "operationId": "getRegionById",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": "ID of the region to return",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful operation",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "type": {
+                                            "type": "string",
+                                            "example": "Feature"
+                                        },
+                                        "properties": {
+                                            "properties": {
+                                                "id": {
+                                                    "type": "integer",
+                                                    "example": 1
+                                                },
+                                                "name": {
+                                                    "type": "string",
+                                                    "example": "Region Name"
+                                                },
+                                                "mountain_groups": {
+                                                    "type": "object",
+                                                    "example": {
+                                                        "1": "2022-12-03 12:34:25",
+                                                        "2": "2023-01-15 09:30:00",
+                                                        "3": "2023-02-20 14:45:10"
+                                                    }
+                                                }
+                                            },
+                                            "type": "object"
+                                        },
+                                        "geometry": {
+                                            "properties": {
+                                                "type": {
+                                                    "description": "Postgis geometry type: MultiPolygon, etc.",
+                                                    "type": "string"
+                                                },
+                                                "coordinates": {
+                                                    "description": "region coordinates (WGS84)",
+                                                    "type": "object"
+                                                }
+                                            },
+                                            "type": "object"
+                                        }
+                                    },
+                                    "type": "object"
+                                },
+                                "example": {
+                                    "type": "Feature",
+                                    "properties": {
+                                        "id": 1,
+                                        "name": "Abruzzo",
+                                        "mountain_groups": {
+                                            "1": "2022-12-03 12:34:25",
+                                            "2": "2023-01-15 09:30:00",
+                                            "3": "2023-02-20 14:45:10"
+                                        }
+                                    },
+                                    "geometry": {
+                                        "type": "MultiPolygon",
+                                        "coordinates": [
+                                            [
+                                                [
+                                                    10.4495294,
+                                                    43.7615252
+                                                ],
+                                                [
+                                                    10.4495998,
+                                                    43.7615566
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Region not found"
+                    }
+                }
+            }
+        },
+        "/api/v2/mitur_abruzzo/mountain_group/{id}": {
+            "get": {
+                "tags": [
+                    "Api V2 - MITUR Abruzzo"
+                ],
+                "summary": "Get Mountain group by ID",
+                "description": "Returns a single mountain group, including hiking routes, huts and POIs that intersect with the mountain group geometry. Sections are hardcoded for now. Will be implemented soon. The update timestamp of an item in the database is formatted as 'YYYY-MM-DD-Thh:mm:ss+HH:M', adhering to the ISO8601 standard. This notation represents the date and time with an offset of hours (HH) and minutes (MM) from Coordinated Universal Time (UTC), ensuring a consistent formatting and interpretation across the globe.",
+                "operationId": "getMountainGroupById",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": "ID of the mountain group to return",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful operation",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "type": {
+                                            "type": "string",
+                                            "example": "Feature"
+                                        },
+                                        "properties": {
+                                            "properties": {
+                                                "id": {
+                                                    "type": "integer",
+                                                    "example": 406
+                                                },
+                                                "name": {
+                                                    "type": "string",
+                                                    "example": "Nodo della Scoffera - Gruppo del Monte Ramaceto"
+                                                },
+                                                "hiking_routes": {
+                                                    "type": "array",
+                                                    "items": {
+                                                        "properties": {
+                                                            "201": {
+                                                                "description": "The update timestamp of an item in the database is formatted as 'YYYY-MM-DD-Thh:mm:ss+HH:M', adhering to the ISO8601 standard. This notation represents the date and time with an offset of hours (HH) and minutes (MM) from Coordinated Universal Time (UTC), ensuring a consistent formatting and interpretation across the globe.",
+                                                                "type": "string",
+                                                                "format": "date-time",
+                                                                "example": "2021-11-03T09:36:41+00:00"
+                                                            }
+                                                        },
+                                                        "type": "object"
+                                                    }
+                                                },
+                                                "huts": {
+                                                    "type": "array",
+                                                    "items": {
+                                                        "properties": {
+                                                            "202": {
+                                                                "description": "The update timestamp of an item in the database is formatted as 'YYYY-MM-DD-Thh:mm:ss+HH:M', adhering to the ISO8601 standard. This notation represents the date and time with an offset of hours (HH) and minutes (MM) from Coordinated Universal Time (UTC), ensuring a consistent formatting and interpretation across the globe.",
+                                                                "type": "string",
+                                                                "format": "date-time",
+                                                                "example": "2021-11-03T09:36:41+00:00"
+                                                            }
+                                                        },
+                                                        "type": "object"
+                                                    }
+                                                },
+                                                "pois": {
+                                                    "type": "array",
+                                                    "items": {
+                                                        "properties": {
+                                                            "203": {
+                                                                "description": "The update timestamp of an item in the database is formatted as 'YYYY-MM-DD-Thh:mm:ss+HH:M', adhering to the ISO8601 standard. This notation represents the date and time with an offset of hours (HH) and minutes (MM) from Coordinated Universal Time (UTC), ensuring a consistent formatting and interpretation across the globe.",
+                                                                "type": "string",
+                                                                "format": "date-time",
+                                                                "example": "2021-11-03T09:36:41+00:00"
+                                                            }
+                                                        },
+                                                        "type": "object"
+                                                    }
+                                                },
+                                                "sections": {
+                                                    "type": "object",
+                                                    "example": {
+                                                        "501": "2022-12-03 12:34:25",
+                                                        "502": "2023-01-15 09:30:00",
+                                                        "503": "2023-02-20 14:45:10"
+                                                    }
+                                                }
+                                            },
+                                            "type": "object"
+                                        },
+                                        "geometry": {
+                                            "properties": {
+                                                "type": {
+                                                    "description": "Postgis geometry type: MultiPolygon, etc.",
+                                                    "type": "string"
+                                                },
+                                                "coordinates": {
+                                                    "description": "mountain group coordinates (WGS84)",
+                                                    "type": "object"
+                                                }
+                                            },
+                                            "type": "object"
+                                        }
+                                    },
+                                    "type": "object"
+                                },
+                                "example": {
+                                    "type": "Feature",
+                                    "properties": {
+                                        "id": 406,
+                                        "name": "Nodo della Scoffera - Gruppo del Monte Ramaceto",
+                                        "hiking_routes": {
+                                            "201": "2021-11-03T09:36:41+00:00"
+                                        },
+                                        "huts": {
+                                            "202": "2021-11-03T09:36:41+00:00"
+                                        },
+                                        "pois": {
+                                            "203": "2021-11-03T09:36:41+00:00"
+                                        },
+                                        "sections": {
+                                            "501": "2022-12-03 12:34:25",
+                                            "502": "2023-01-15 09:30:00",
+                                            "503": "2023-02-20 14:45:10"
+                                        }
+                                    },
+                                    "geometry": {
+                                        "type": "MultiPolygon",
+                                        "coordinates": [
+                                            [
+                                                [
+                                                    [
+                                                        10.4495294,
+                                                        43.7615252
+                                                    ],
+                                                    [
+                                                        10.4495998,
+                                                        43.7615566
+                                                    ],
+                                                    [
+                                                        10.4495294,
+                                                        43.7615252
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Mountain group not found"
+                    }
+                }
+            }
+        },
+        "/api/v2/mitur_abruzzo/hiking_route/{id}": {
+            "get": {
+                "tags": [
+                    "Api V2 - MITUR Abruzzo"
+                ],
+                "summary": "Get Hiking route by ID",
+                "description": "Returns a single hiking route by ID.",
+                "operationId": "getMiturAbruzzoHikingRouteById",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": "ID of the hiking route to return",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful operation",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "type": {
+                                            "type": "string",
+                                            "example": "Feature"
+                                        },
+                                        "properties": {
+                                            "properties": {
+                                                "id": {
+                                                    "type": "integer",
+                                                    "example": 1
+                                                },
+                                                "ref": {
+                                                    "type": "string",
+                                                    "example": "T001"
+                                                }
+                                            },
+                                            "type": "object"
+                                        },
+                                        "geometry": {
+                                            "properties": {
+                                                "type": {
+                                                    "description": "Postgis geometry type: Linestring, MultilineString, etc.",
+                                                    "type": "string"
+                                                },
+                                                "coordinates": {
+                                                    "description": "hut coordinates (WGS84)",
+                                                    "type": "object"
+                                                }
+                                            },
+                                            "type": "object"
+                                        }
+                                    },
+                                    "type": "object"
+                                },
+                                "example": {
+                                    "type": "Feature",
+                                    "properties": {
+                                        "id": 1,
+                                        "ref": "T001"
+                                    },
+                                    "geometry": {
+                                        "type": "MultiLineString",
+                                        "coordinates": [
+                                            [
+                                                [
+                                                    10.4495294,
+                                                    43.7615252
+                                                ],
+                                                [
+                                                    10.4495998,
+                                                    43.7615566
+                                                ]
+                                            ]
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Hiking route not found"
+                    }
+                }
+            }
+        },
+        "/api/v2/mitur_abruzzo/hut/{id}": {
+            "get": {
+                "tags": [
+                    "Api V2 - MITUR Abruzzo"
+                ],
+                "summary": "Get Hut by ID",
+                "description": "Returns a single hut by ID.",
+                "operationId": "getMiturAbruzzoHutById",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": "ID of the hut to return",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful operation",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "type": {
+                                            "type": "string",
+                                            "example": "Feature"
+                                        },
+                                        "properties": {
+                                            "properties": {
+                                                "id": {
+                                                    "type": "integer",
+                                                    "example": 1
+                                                },
+                                                "name": {
+                                                    "type": "string",
+                                                    "example": "Rifugio Rossi"
+                                                }
+                                            },
+                                            "type": "object"
+                                        },
+                                        "geometry": {
+                                            "properties": {
+                                                "type": {
+                                                    "description": "Postgis geometry type: Point",
+                                                    "type": "string"
+                                                },
+                                                "coordinates": {
+                                                    "description": "hut coordinates (WGS84)",
+                                                    "type": "object"
+                                                }
+                                            },
+                                            "type": "object"
+                                        }
+                                    },
+                                    "type": "object"
+                                },
+                                "example": {
+                                    "type": "Feature",
+                                    "properties": {
+                                        "id": 1,
+                                        "name": "Rifugio Rossi"
+                                    },
+                                    "geometry": {
+                                        "type": "Point",
+                                        "coordinates": [
+                                            13.399,
+                                            42.123
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Hut not found"
+                    }
+                }
+            }
+        },
+        "/api/v2/mitur_abruzzo/poi/{id}": {
+            "get": {
+                "tags": [
+                    "Api V2 - MITUR Abruzzo"
+                ],
+                "summary": "Get Poi by ID",
+                "description": "Returns a single poi by ID.",
+                "operationId": "getMiturAbruzzoPoiById",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": "ID of the poi to return",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful operation",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "type": {
+                                            "type": "string",
+                                            "example": "Feature"
+                                        },
+                                        "properties": {
+                                            "properties": {
+                                                "id": {
+                                                    "type": "integer",
+                                                    "example": 1
+                                                },
+                                                "name": {
+                                                    "type": "string",
+                                                    "example": "Monte Rosa"
+                                                }
+                                            },
+                                            "type": "object"
+                                        },
+                                        "geometry": {
+                                            "properties": {
+                                                "type": {
+                                                    "description": "Postgis geometry type: Point",
+                                                    "type": "string"
+                                                },
+                                                "coordinates": {
+                                                    "description": "poi coordinates (WGS84)",
+                                                    "type": "object"
+                                                }
+                                            },
+                                            "type": "object"
+                                        }
+                                    },
+                                    "type": "object"
+                                },
+                                "example": {
+                                    "type": "Feature",
+                                    "properties": {
+                                        "id": 1,
+                                        "name": "Poi Name"
+                                    },
+                                    "geometry": {
+                                        "type": "Point",
+                                        "coordinates": [
+                                            102.2,
+                                            2.4
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Poi not found"
+                    }
+                }
+            }
+        },
+        "/api/v2/mitur_abruzzo/section/{id}": {
+            "get": {
+                "tags": [
+                    "Api V2 - MITUR Abruzzo"
+                ],
+                "summary": "Get Section by ID",
+                "description": "Returns a single section by ID. Coordinates are hardcoded for now. Will be implemented soon.",
+                "operationId": "getMiturAbruzzoSectionById",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": "ID of the section to return",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful operation",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "type": {
+                                            "type": "string",
+                                            "example": "Feature"
+                                        },
+                                        "properties": {
+                                            "properties": {
+                                                "id": {
+                                                    "type": "integer",
+                                                    "example": 1
+                                                },
+                                                "name": {
+                                                    "type": "string",
+                                                    "example": "Section Name"
+                                                }
+                                            },
+                                            "type": "object"
+                                        },
+                                        "geometry": {
+                                            "properties": {
+                                                "type": {
+                                                    "description": "Postgis geometry type: Point",
+                                                    "type": "string"
+                                                },
+                                                "coordinates": {
+                                                    "description": "section coordinates (WGS84)",
+                                                    "type": "object"
+                                                }
+                                            },
+                                            "type": "object"
+                                        }
+                                    },
+                                    "type": "object"
+                                },
+                                "example": {
+                                    "type": "Feature",
+                                    "properties": {
+                                        "id": 1,
+                                        "name": "Sezione di Roma"
+                                    },
+                                    "geometry": {
+                                        "type": "Point",
+                                        "coordinates": [
+                                            12.4964,
+                                            41.9028
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Section not found"
                     }
                 }
             }

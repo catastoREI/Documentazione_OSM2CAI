@@ -4,8 +4,8 @@ La fonte dei dati presenti in OSM2CAI è la piattaforma OpenStreetMap.org, dove 
 
 {% embed url="https://wiki.openstreetmap.org/wiki/IT:CAI" %}
 
-La piattaforma OSM2CAI si sincronizza una volta al giorno (ore 05:00 UTC+1) con il database di OpenStreetMap.&#x20;
-
-**NOTA:** Per motivi tecnici sono necessarie **almeno 48** ore affinché una modifica su OpenStreetMap sia recepita su OSM2CAI
+{% hint style="warning" %}
+Al momento per motivi tecnici la piattaforma OSM2CAI si sincronizza una volta a settimana, quindi una modifica su OpenStreetMap impiegherà almeno una settimana per essere recepita su OSM2CAI.
+{% endhint %}
 
 Se si riscontrano difformità nei percorsi su OSM2CAI è necessario aggiornare la corrispondente relazione su OpenStreetMap.org&#x20;

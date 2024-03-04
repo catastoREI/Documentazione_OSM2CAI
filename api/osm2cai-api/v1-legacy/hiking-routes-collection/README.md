@@ -1,2 +1,0 @@
-# Hiking routes collection
-

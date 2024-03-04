@@ -56,26 +56,7 @@
 
 ## API
 
-* [OSM2CAI API](api/osm2cai-api/README.md)
-  * [V1 \[Legacy\]](api/osm2cai-api/v1-legacy/README.md)
-    * [Hiking route](api/osm2cai-api/v1-legacy/hiking-route.md)
-    * [Hiking route osm](api/osm2cai-api/v1-legacy/hiking-route-osm.md)
-    * [Hiking routes](api/osm2cai-api/v1-legacy/hiking-routes/README.md)
-      * [Region](api/osm2cai-api/v1-legacy/hiking-routes/region.md)
-      * [Bb](api/osm2cai-api/v1-legacy/hiking-routes/bb.md)
-    * [Hiking routes osm](api/osm2cai-api/v1-legacy/hiking-routes-osm/README.md)
-      * [Region](api/osm2cai-api/v1-legacy/hiking-routes-osm/region.md)
-      * [Bb](api/osm2cai-api/v1-legacy/hiking-routes-osm/bb.md)
-    * [Hiking routes collection](api/osm2cai-api/v1-legacy/hiking-routes-collection/README.md)
-      * [Bb](api/osm2cai-api/v1-legacy/hiking-routes-collection/bb.md)
-  * [V2](api/osm2cai-api/v2/README.md)
-    * [Hiking route](api/osm2cai-api/v2/hiking-route.md)
-    * [Hiking route osm](api/osm2cai-api/v2/hiking-route-osm.md)
-    * [Itinerary](api/osm2cai-api/v2/itinerary.md)
-    * [Hiking routes list](api/osm2cai-api/v2/hiking-routes-list.md)
-    * [Hiking routes Region](api/osm2cai-api/v2/hiking-routes-region.md)
-    * [Hiking routes bounding box](api/osm2cai-api/v2/hiking-routes-bounding-box.md)
-    * [Hiking routes collection](api/osm2cai-api/v2/hiking-routes-collection.md)
+* [OSM2CAI API](api/osm2cai-api.md)
 
 ***
 
