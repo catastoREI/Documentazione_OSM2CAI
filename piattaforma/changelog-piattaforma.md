@@ -1,5 +1,24 @@
 # Changelog piattaforma
 
+### 233.16.0 (2024-03-04)
+
+#### Features
+
+* added mitur abruzzo apis for mountain groups
+* added mitur abruzzo hiking routes apis&#x20;
+* added mitur single region api&#x20;
+* added swagger documentation for mitur region list&#x20;
+* api endpoints for mitur abruzzo and controller&#x20;
+* created geoIntersect trait
+* implemented api for mitur huts regions and sections
+* region\_list api implemented
+* tests for mitur abruzzo api&#x20;
+* updated timestamp documentation in swagger
+
+#### Bug Fixes
+
+* fixed hiking route api
+
 ### 233.15.1 (2024-02-27)
 
 #### Bug Fixes
