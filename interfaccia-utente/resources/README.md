@@ -4,4 +4,4 @@ La piattaforma si adatta nelle funzionalità proposte sulla base del tipo di ute
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><a href="utenti.md">Utenti</a></td><td></td></tr><tr><td></td><td><a href="rilievi.md">Rilievi</a></td><td></td></tr><tr><td></td><td><a href="territorio/">Territorio</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="utenti.md">Utenti</a></td><td></td><td><a href="utenti.md">utenti.md</a></td></tr><tr><td></td><td><a href="rilievi.md">Rilievi</a></td><td></td><td><a href="rilievi.md">rilievi.md</a></td></tr><tr><td></td><td><a href="territorio/">Territorio</a></td><td></td><td><a href="territorio/">territorio</a></td></tr></tbody></table>
