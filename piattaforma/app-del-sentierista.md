@@ -20,7 +20,7 @@
 
 ***
 
-### Descrizione
+## Descrizione
 
 L'APP del Sentierista sviluppata dal Club Alpino Italiano, mostra i percorsi presenti nel database OSM2CAI, suddivisi per [stato di accatastamento](definizioni/stato-di-accatastamento.md) (1, 2, 3 e 4). Per ogni percorso è possibile visualizzare oltre alla geometria anche gli altri metadati presenti del database, alcuni di questi sono calcolati in automatico (dislivello positivo e negativo, distanza, ecc) Nella scheda del percorso è presente il link diretto alla piattaforma OSM2CAI per verificare, aggiornare o validare il percorso.
 
@@ -34,7 +34,7 @@ L'APP del Sentierista sviluppata dal Club Alpino Italiano, mostra i percorsi pre
 \[iOS]
 {% endembed %}
 
-### Rilievo
+## Rilievo
 
 Tramite l'APP del Sentierista è possibile registrare le proprie attività, fare segnalazioni sulla Rete Sentieristica Italiana  e raccogliere punti di interesse (sorgenti, luoghi di posa della segnaletica verticale, ecc)
 
@@ -44,40 +44,82 @@ I dati raccolti utilizzando l'APP, quali punti di interesse (sorgenti, luoghi di
 [rilievi.md](../interfaccia-utente/resources/rilievi.md)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/8.png" alt="" width="225"><figcaption><p>menu scelta azione:<br>- registrare waypoint<br>- registrare traccia<br>- registare foto</p></figcaption></figure>
+## Funzioni di registrazione&#x20;
 
-#### Registrazione waypoint
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (23).png" alt="" width="188"><figcaption><p>menu scelta azione:<br>- registrare un waypoint<br>- registrare una traccia<br>- scattare o caricare una foto</p></figcaption></figure>
 
-<div>
+### Registrazione waypoint
 
-<figure><img src="../.gitbook/assets/18.png" alt="" width="221"><figcaption><p>schermata &#x3C;Registra un waypoint></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_map(Pixel 7) (3).png" alt="" width="188"><figcaption><p>menu scelta tipo di form:<br>- sentieristica<br>- segnalazione<br>- acqua sorgente<br>- snow water equivalent<br>- punto di interesse</p></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/19.png" alt="" width="221"><figcaption><p>schermata &#x3C;categoria waypoint></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/199.png" alt="" width="222"><figcaption><p>schermata &#x3C;tipologia waypoint></p></figcaption></figure>
-
-</div>
-
-#### Registrazione traccia
-
-Durante la registrazione di una traccia è possibile registrare un waypoint.
+#### Form \<sentieristica>
 
 <div>
 
-<figure><img src="../.gitbook/assets/12.png" alt="" width="224"><figcaption><p>schermata &#x3C;registra una traccia></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (2).png" alt="" width="188"><figcaption><p>menu form &#x3C;sentieristica></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/14.png" alt="" width="224"><figcaption><p>schermata durante la registrazione</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (3) (1).png" alt="" width="188"><figcaption><p>menu scelta &#x3C;tipologia></p></figcaption></figure>
 
 </div>
 
-#### Registrazione foto
+#### Form \<segnalazione>
 
-È possibile scattare una foto o selezionarla dalla propria libreria.
+<div>
 
-<figure><img src="../.gitbook/assets/11.png" alt="" width="224"><figcaption><p>schermata &#x3C;registrazione di una foto></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (4).png" alt="" width="188"><figcaption><p>menu form &#x3C;segnalazione></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (5).png" alt="" width="188"><figcaption><p>menu scelta &#x3C;tipologia></p></figcaption></figure>
+
+</div>
+
+#### Form \<acqua sorgente>
+
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (7).png" alt="" width="188"><figcaption><p>menu form &#x3C;acqua sorgente></p></figcaption></figure>
+
+#### Form \<snow water equivalent>
+
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (8).png" alt="" width="188"><figcaption><p>menu form &#x3C;snow water equivalent></p></figcaption></figure>
+
+#### Form \<punto di interesse>
+
+<div>
+
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (9).png" alt="" width="188"><figcaption><p>menu form &#x3C;punto di interesse></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (10).png" alt="" width="188"><figcaption><p>menu scelta &#x3C;tipologia></p></figcaption></figure>
+
+</div>
+
+###
+
+{% hint style="success" %}
+Durante la compilazione dei dati relativi al waypoint è possibile associare una o più foto georeferenziate
+{% endhint %}
+
+### Registrazione traccia
+
+<div>
+
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (21).png" alt="" width="188"><figcaption><p>schermata &#x3C;inizio registrazione traccia></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (12) (1).png" alt="" width="188"><figcaption><p>schermata durante la registrazione</p></figcaption></figure>
+
+</div>
+
+{% hint style="success" %}
+Durante la registrazione di una traccia è anche possibile registrare un waypoint, direttamente dall'icona presente.
+{% endhint %}
+
+### Caricamento foto georeferenziata
+
+È possibile scattare una foto o caricarla, selezionandola dalla propria libreria.
+
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (13) (1).png" alt="" width="188"><figcaption><p>schermata &#x3C;caricamento foto></p></figcaption></figure>
