@@ -121,3 +121,15 @@ Durante la registrazione di una traccia è anche possibile registrare un waypoin
 È possibile scattare una foto o caricarla, selezionandola dalla propria libreria.
 
 <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (13) (1).png" alt="" width="188"><figcaption><p>schermata &#x3C;caricamento foto></p></figcaption></figure>
+
+## Profilo utente
+
+<div>
+
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (14).png" alt="" width="188"><figcaption><p>menu &#x3C;profilo utente></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (16).png" alt="" width="188"><figcaption><p>dettaglio traccia registrata,<br>con possibilità di scaricamento</p></figcaption></figure>
+
+</div>
