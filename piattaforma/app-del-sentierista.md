@@ -52,7 +52,7 @@ I dati raccolti utilizzando l'APP, quali punti di interesse (sorgenti, luoghi di
 
 <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_map(Pixel 7) (3).png" alt="" width="188"><figcaption><p>menu scelta tipo di form:<br>- sentieristica<br>- segnalazione<br>- acqua sorgente<br>- snow water equivalent<br>- punto di interesse</p></figcaption></figure>
 
-{% hint style="success" %}
+{% hint style="info" %}
 Durante la compilazione dei dati relativi al waypoint è possibile associare una o più foto georeferenziate
 {% endhint %}
 
@@ -112,7 +112,7 @@ Durante la compilazione dei dati relativi al waypoint è possibile associare una
 
 </div>
 
-{% hint style="success" %}
+{% hint style="info" %}
 Durante la registrazione di una traccia è anche possibile registrare un waypoint, direttamente dall'icona presente.
 {% endhint %}
 
