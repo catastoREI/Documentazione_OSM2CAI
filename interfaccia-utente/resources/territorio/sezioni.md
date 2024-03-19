@@ -61,3 +61,20 @@ In questa sezione è possibile effettuare scaricare i seguenti dati:\
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption><p>Elenco percorsi associati alla Sezione</p></figcaption></figure>
+
+Sono disponibili i seguenti filtri:
+
+| CAMPO                   | DESCRIZIONE                                                           |
+| ----------------------- | --------------------------------------------------------------------- |
+| REGIONE                 | Regione di appartenenza del percorso                                  |
+| PROVINCIA               | Provincia di appartenenza del percorso                                |
+| AREA                    | Area di appartenenza del percorso                                     |
+| SETTORE                 | Settore di appartenenza del percorso                                  |
+| GEOMETRIA SINCRONIZZATA | Sincronizzazione della geometria tra OpenStreetMap e OSM2CAI  (SI/NO) |
+| ELIMINATO SU OSM        | Percorso eliminato su OpenStreetMap (SI/NO)                           |
+| REGIONE PREFERITA       | Percorso considerato tra i più significativi della Regione (SI/NO)    |
+| STATO DI PERCORRENZA    | Stato di percorribilità dei percorsi                                  |
+| CORRETTEZZA GEOMETRIA   | Corretta della geometria dei percorsi                                 |
+| RIFUGI                  | Presenza in un buffer di un chilometro di Rifugi                      |
+| SDA                     | Stato di accatastamento                                               |
+
