@@ -33,7 +33,7 @@ Per ogni Sezione è disponibile una pagina riepilogativa dove vengono mostrati i
 
 #### Riepilogo dati
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Riepilogo della Sezione</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption><p>Riepilogo Sezione</p></figcaption></figure>
 
 #### Download dati
 

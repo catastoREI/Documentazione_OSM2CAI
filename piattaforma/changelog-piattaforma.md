@@ -1,5 +1,19 @@
 # Changelog piattaforma
 
+### 233.16.2 (2024-03-19)
+
+#### Bug Fixes
+
+* fixed mountain groups issue
+
+### 233.16.1 (2024-03-12)
+
+#### Bug Fixes
+
+* added $route\_cai->is\_syncing = true;
+* added $route\_cai->is\_syncing = true; to all
+* fixed relation table for mountain groups and regions
+
 ### 233.16.0 (2024-03-04)
 
 #### Features
