@@ -35,6 +35,13 @@ Per ogni Sezione è disponibile una pagina riepilogativa dove vengono mostrati i
 
 <figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption><p>Riepilogo Sezione</p></figcaption></figure>
 
+In questa sezione vengono mostrati:\
+\- numero percorsi nei diversi stati di accatastamento\
+\- stato avanzamento lavori (SAL) sullo [stato di percorribilità](../../../piattaforma/definizioni/stato-di-percorribilita.md)\
+\- stato avanzamento lavori (SAL) sullo [stato di accatastamento](../../../piattaforma/definizioni/stato-di-accatastamento.md)\
+\- numero totale dei percorsi monitorati dalla Sezione\
+\- numero totale dei chilometri dei percorsi monitorati dalla Sezione
+
 #### Download dati
 
 <figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
