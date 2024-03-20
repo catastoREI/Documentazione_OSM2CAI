@@ -1,5 +1,11 @@
 # Changelog piattaforma
 
+### 233.16.3 (2024-03-20)
+
+#### Bug Fixes
+
+* deactivated mountain groups table in mitur abruzzo dashboard
+
 ### 233.16.2 (2024-03-19)
 
 #### Bug Fixes
