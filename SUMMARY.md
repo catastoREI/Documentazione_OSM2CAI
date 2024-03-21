@@ -58,10 +58,10 @@
 
 * [OSM2CAI API](api/osm2cai-api.md)
 
-***
+## Informazioni Legali
 
-* [Copyright e licenza](copyright-e-licenza.md)
-* [Disclaimer](disclaimer.md)
+* [Copyright e licenza](informazioni-legali/copyright-e-licenza.md)
+* [Disclaimer](informazioni-legali/disclaimer.md)
 
 ## STRUMENTI
 
