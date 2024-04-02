@@ -1,5 +1,42 @@
 # Changelog piattaforma
 
+### 233.19.0 (2024-04-02)
+
+#### Features
+
+* implemented form\_id update on creating new ugc poi
+
+### 233.18.0 (2024-04-02)
+
+#### Features
+
+* added fields for api to sections table and updated section sync to overpass command
+* created tags mapping config variable
+* created trait for tags mapping&#x20;
+* implemented apis
+* implemented cai huts mitur abruzzo api
+* mitur abruzzo sections api updated&#x20;
+* updated poi apis for mitur abruzzo&#x20;
+
+#### Bug Fixes
+
+* ecpois wiki fields clickable in xls file download&#x20;
+* fix score update command
+* fixed hiking routes count in mitur abruzzo dashboard
+* fixed lat and lon in ugc poi csv download&#x20;
+* fixed lista percorsi in itinerary details&#x20;
+* fixed mitur dashboard values&#x20;
+* fixed sync command&#x20;
+
+### 233.17.0 (2024-03-21)
+
+#### Features
+
+* added count card and trend for acqua sorgente dashboard
+* added nova action to csv download mountain groups
+* added region filter to mountain groups
+* added ugc download csv action
+
 ### 233.16.3 (2024-03-20)
 
 #### Bug Fixes
