@@ -8,4 +8,4 @@ In questa sezione è possibile gestire gli itinerari a lunga percorrenza present
 \
 Solo gli amministratori, Referenti Nazionali o gli utenti abilitati possono operare in questa sezione.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

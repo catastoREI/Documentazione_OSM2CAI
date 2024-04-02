@@ -17,6 +17,8 @@ In questa sezione viene mostrato l'elenco riepilogativo di tutte le Regioni Ital
 
 I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (73).png>), accanto al nome.
 
+### Scaricamento dati
+
 Inoltre è disponibile per ogni Regione il download dei seguenti dati:
 
 * file .geojson dei Settori&#x20;

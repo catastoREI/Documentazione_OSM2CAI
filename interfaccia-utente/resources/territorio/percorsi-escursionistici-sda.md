@@ -162,7 +162,7 @@ Un percorso può essere eliminato da OSM2CAI solo se è stata eliminata la corri
 
 Tramite la action \<PERCORSO FAVORITO> è inserire il percorso tra i favoriti, aggiunge una descrizione e un'immagine.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Interfaccia di inserimento</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Interfaccia di inserimento</p></figcaption></figure>
 
 #### Percorribilità
 
