@@ -1,5 +1,11 @@
 # Changelog piattaforma
 
+### 233.19.1 (2024-04-03)
+
+#### Bug Fixes
+
+* fixed ec pois xlsx
+
 ### 233.19.0 (2024-04-02)
 
 #### Features
