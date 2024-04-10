@@ -1,5 +1,11 @@
 # Changelog piattaforma
 
+### 233.19.2 (2024-04-10)
+
+#### Bug Fixes
+
+* fixed import ugc
+
 ### 233.19.1 (2024-04-03)
 
 #### Bug Fixes
