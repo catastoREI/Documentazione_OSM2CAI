@@ -1,5 +1,32 @@
 # Changelog piattaforma
 
+### 233.21.1 (2024-04-16)
+
+#### Bug Fixes
+
+* fixed calculate intersections command
+
+### 233.21.0 (2024-04-16)
+
+#### Features
+
+* improved api performance for mountain groups. Added intersections columns to mountain groups table and created nova action and command to calculate intersections&#x20;
+
+### 233.20.1 (2024-04-16)
+
+#### Bug Fixes
+
+* improved mitur hiking routes api examples&#x20;
+
+### 233.20.0 (2024-04-16)
+
+#### Features
+
+* updated api doc
+* updated api docs
+
+
+
 ### 233.19.2 (2024-04-10)
 
 #### Bug Fixes
