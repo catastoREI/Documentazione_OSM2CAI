@@ -1,5 +1,47 @@
 # Changelog piattaforma
 
+### 233.24.0 (2024-04-18)
+
+#### Features
+
+* updated export api&#x20;
+
+### 233.23.0 (2024-04-18)
+
+#### Features
+
+* implemented areas export api
+* implemented ec pois export api
+* implemented export api for hiking\_routes list and single feature
+* implemented huts export api&#x20;
+* implemented itineraries export api
+* implemented mountain groups export api&#x20;
+* implemented natural springs export api&#x20;
+* implemented sections export api&#x20;
+* implemented sectors export api
+* implemented ugc media export api&#x20;
+* implemented ugc pois export api
+* implemented ugc track export api
+* implemented users export api&#x20;
+
+### 233.22.2 (2024-04-17)
+
+#### Bug Fixes
+
+* fixed natural springs sync command
+
+### 233.22.1 (2024-04-17)
+
+#### Bug Fixes
+
+* fixed poi api caching
+
+### 233.22.0 (2024-04-17)
+
+#### Features
+
+* improved poi mitur api performance
+
 ### 233.21.1 (2024-04-16)
 
 #### Bug Fixes
