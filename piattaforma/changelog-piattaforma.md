@@ -1,5 +1,35 @@
 # Changelog piattaforma
 
+### 233.25.0 (2024-05-02)
+
+#### Features
+
+* added check user no match command to ugc poi
+
+### 233.24.3 (2024-05-02)
+
+#### Bug Fixes
+
+* fixed user no match in ugc import from geohub&#x20;
+
+### 233.24.2 (2024-04-30)
+
+#### Bug Fixes
+
+* mock opening hours in mitur huts api
+
+### 233.24.1 (2024-04-30)
+
+#### Bug Fixes
+
+* fixed hr id on huts api (was relation id before, now is taking osm2cai id)
+* fixed mitur abruzzo apis&#x20;
+* fixed section ids key to mitur abruzzo apis
+
+#### Miscellaneous Chores
+
+* enhanced mitur abruzzo huts api documentation
+
 ### 233.24.0 (2024-04-18)
 
 #### Features
