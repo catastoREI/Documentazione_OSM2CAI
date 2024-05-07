@@ -1,5 +1,11 @@
 # Changelog piattaforma
 
+### 233.26.0 (2024-05-07)
+
+#### Features
+
+* updated export apis for ec pois user association
+
 ### 233.25.0 (2024-05-02)
 
 #### Features
