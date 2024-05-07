@@ -1,6 +1,6 @@
 # OSM2CAI API
 
-La piattaforma OSM2CAI mette a disposizione delle API pubbliche. Qualsiasi utilizzo deve riprettare le indicazioni di [Copyright e licenza](../informazioni-legali/copyright-e-licenza.md)
+La piattaforma OSM2CAI mette a disposizione delle API pubbliche. Qualsiasi utilizzo deve rispettare le indicazioni di [Copyright e licenza](../informazioni-legali/copyright-e-licenza.md)
 
 Ulteriori informazioni sono disponibile nella seguente pagina:
 
