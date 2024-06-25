@@ -1,5 +1,80 @@
 # Changelog piattaforma
 
+### 233.30.3 (2024-06-21)
+
+#### Bug Fixes
+
+* flow rate calculated only when water flow rate is validated
+
+### 233.30.2 (2024-06-21)
+
+#### Bug Fixes
+
+* fixed volume and time calculation for source surveys
+
+### 233.30.1 (2024-06-19)
+
+#### Bug Fixes
+
+* bug fix in edit mode source survey
+
+### 233.30.0 (2024-06-13)
+
+#### Features
+
+* added has\_photo boolean column to ugc\_pois table&#x20;
+* added has\_photo boolean column to ugc\_pois table&#x20;
+
+#### Bug Fixes
+
+* fixed source survey edit nova&#x20;
+* fixed source survey edit nova&#x20;
+
+#### Miscellaneous Chores
+
+* enhanced computing source surveys data process
+* enhanced computing source surveys data process
+* mitur abruzzo api enhancement&#x20;
+* mitur abruzzo api enhancement&#x20;
+* updated authorizations for source surveys nova resource&#x20;
+* updated authorizations for source surveys nova resource
+
+### 233.29.0 (2024-06-07)
+
+#### Features
+
+* added source survey nova resource oc:3431&#x20;
+* added source survey nova resource oc:3431&#x20;
+
+#### Bug Fixes
+
+* abstract mitur abruzzo api&#x20;
+* added geometry and validation to overlay geojson&#x20;
+* added geometry and validation to overlay geojson&#x20;
+
+#### Miscellaneous Chores
+
+* enhanced mitur abruzzo apis&#x20;
+* enhanced mitur abruzzo apis&#x20;
+
+### 233.28.0 (2024-06-06)
+
+#### Features
+
+* added source survey nova resource oc:3431
+
+### 233.27.0 (2024-06-03)
+
+#### Features
+
+* api mitur abruzzo enhancement
+* updated mitur abruzzo apis
+
+#### Bug Fixes
+
+* fixed abstract in abruzzo api&#x20;
+* fixed mitur abruzzo apis
+
 ### 233.26.0 (2024-05-07)
 
 #### Features
