@@ -1,5 +1,17 @@
 # Changelog piattaforma
 
+### 233.30.5 (2024-06-27)
+
+#### Bug Fixes
+
+* fixed is active water source&#x20;
+
+### 233.30.4 (2024-06-27)
+
+#### Bug Fixes
+
+* fixed acquasorgente overlays api
+
 ### 233.30.3 (2024-06-21)
 
 #### Bug Fixes
