@@ -1,5 +1,36 @@
 # Changelog piattaforma
 
+### 233.31.0 (2024-07-05)
+
+#### Features
+
+* added area stats fields
+* added description and abstract to region api data caching. Added filter for images files in the command
+* added description and abstract to region api data caching. Added filter for images files in the command
+* added enrich pois from osmfeatures&#x20;
+* added enrich pois from osmfeatures
+* added enrich pois from osmfeatures
+* added enrich pois from osmfeatures
+* added mountain groups hr map
+* added mountain groups map&#x20;
+* added poi map&#x20;
+* cai-hut map&#x20;
+* implemented api data caching for ec pois&#x20;
+
+#### Bug Fixes
+
+* added name to cai hut point minor bug fixes&#x20;
+* minor bug fixes&#x20;
+* updated cache command to include new fields for mountain groups api data caching
+* updated osm2caistatus parameter for mountain grous api&#x20;
+
+#### Miscellaneous Chores
+
+* refactored tdh command with dem.maphub
+* updated api documentation&#x20;
+* updated map controller&#x20;
+* updated map routes&#x20;
+
 ### 233.30.5 (2024-06-27)
 
 #### Bug Fixes
