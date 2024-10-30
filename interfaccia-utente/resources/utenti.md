@@ -22,7 +22,7 @@ Tramite la action \<Associa utente> è possibile cercare tra gli utenti della pi
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>1 - Associa utente</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>2 - cerca utenti</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>2 - cerca utenti</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>3 - associazione territoriale</p></figcaption></figure>
 
