@@ -1,5 +1,75 @@
 # Changelog piattaforma
 
+### 233.33.0 (2024-10-30)
+
+#### Features
+
+* added delete ugc media action
+* added delete ugc media action
+* added delete ugc media action
+* added delete ugc media action
+* added flora fauna and habitat to form with id poi
+* added flora fauna and habitat to form with id poi
+* download geojson action for ugc pois and tracks
+* gestione ruoli e durate incarichi OC:4199,4200
+* iNaturalist import v1&#x20;
+* iNaturalist import v1)
+* increased jwt token length
+* increased jwt token length
+* ugc media endpoints
+* ugc media endpoints
+* ugc poi export
+* ugc poi export
+
+#### Bug Fixes
+
+* acqua sorgente csv download
+* acqua sorgente csv download
+* acqua sorgente csv download OC:4100
+* added form\_id filling in store post request ugc pois
+* bug fix on source surveys
+* nova code fields
+* raw\_data
+* raw\_data
+* reconcile users command
+* reconcile users command
+* user link in section interface
+* validation bugs
+* validation bugs
+
+#### Miscellaneous Chores
+
+* name changed
+* name changed
+* updated select for ugc poi form\_id in create interface
+* updated select for ugc poi form\_id in create interface
+
+### 233.32.0 (2024-08-30)
+
+#### Features
+
+* add\_gpx\_api\_to\_hiking\_route oc:3591
+* added source\_surveys endpoints to api v2
+* added tdh computing and api caching to hr events observer OC:3608
+* cai huts reconciliation OC:3629
+* cai\_huts\_sync\_with\_osmfeatures OC:3632
+* improve sync ugc from geohub OC:3868
+* updated mitur api caching for cai huts to get images from rifugi api
+
+#### Bug Fixes
+
+* fixed cai huts links in mitur api
+* fixed ec pois type in mitur abruzzo api
+* fixed images caching to include uppercase version
+* get ec pois's hiking routes in buffer only for osm2cai\_status 4
+
+#### Miscellaneous Chores
+
+* added progress bar to calculate intersections command
+* changed mitur api properties order
+* updated enrich from osmfeatures command to accept --score option
+* updated type key in ec\_pois mitur api
+
 ### 233.31.0 (2024-07-05)
 
 #### Features
