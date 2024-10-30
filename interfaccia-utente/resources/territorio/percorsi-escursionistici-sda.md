@@ -2,7 +2,7 @@
 
 ### Elenco percorsi
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 In questa sezione viene mostrato l'elenco dei percorsi escursionistici presenti nel catasto; i campi mostrati sono i seguenti:
 
@@ -18,10 +18,10 @@ In questa sezione viene mostrato l'elenco dei percorsi escursionistici presenti 
 | PERCORRIBILITÀ \*                                                           | stato di percorribilità del percorso                                               |
 | ULTIMA RICOGNIZIONE \*                                                      | data ultima ricognizione del percorso                                              |
 | STATO                                                                       | stato di accatastamento del percorso                                               |
-| <img src="../../../.gitbook/assets/image (77).png" alt="" data-size="line"> | Permette di aggiungere o aggiornare lo stato di percorribilità di un percorso      |
-| <img src="../../../.gitbook/assets/image (76).png" alt="" data-size="line"> | Permette di accedere alla pagina di dettaglio di un percorso                       |
+| <img src="../../../.gitbook/assets/image (83).png" alt="" data-size="line"> | Permette di aggiungere o aggiornare lo stato di percorribilità di un percorso      |
+| <img src="../../../.gitbook/assets/image (82).png" alt="" data-size="line"> | Permette di accedere alla pagina di dettaglio di un percorso                       |
 
-I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (73).png>), accanto al nome.
+I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (79).png>), accanto al nome.
 
 ### Filtri
 
@@ -29,13 +29,13 @@ I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordin
 
 Questo filtro permette di visualizzare solo i percorsi con uno specifico stato di accatastamento.
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Esempio filtro per Stato di accatastamento</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption><p>Esempio filtro per Stato di accatastamento</p></figcaption></figure>
 
 #### **Altri filtri disponibili**
 
 sono implementati i seguenti filtri per migliorare la ricerca dei percorsi
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>F<strong>iltri disponibili</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption><p>F<strong>iltri disponibili</strong></p></figcaption></figure>
 
 | CAMPO                               | DESCRIZIONE                                                                   |
 | ----------------------------------- | ----------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ Per ogni percorso è disponibile una pagina riepilogativa dove vengono mostrati 
 
 #### Sezione codice REI e stato di validazione
 
-<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 In questa parte è possibile visualizzare le seguenti informazioni:
 
@@ -75,9 +75,9 @@ In questa parte è possibile visualizzare le seguenti informazioni:
 
 #### Sezione Mappa e validazione
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption><p>Mappa percorso</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption><p>Mappa percorso</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption><p>Esempio di mappa con due tracce:<br>Linea blu: percorso OSM2CAI/OSM<br>Linea rossa: percorso caricato dall'utente</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption><p>Esempio di mappa con due tracce:<br>Linea blu: percorso OSM2CAI/OSM<br>Linea rossa: percorso caricato dall'utente</p></figcaption></figure>
 
 In questa parte è possibile visualizzare le seguenti informazioni:
 
@@ -86,15 +86,15 @@ In questa parte è possibile visualizzare le seguenti informazioni:
 | Percorribilità        | mostra lo stato di percorribilità del percorso                                                                                                                                                                                                                                                                                 |
 | Legenda               | <p>mostra la legenda della mappa:</p><ul><li>Linea blu: percorso OSM2CAI/OSM</li><li>Linea rossa: percorso caricato dall'utente</li></ul>                                                                                                                                                                                      |
 | Mappa                 | viene mostrata la mappa del percorso, con la possibilità di visualizzarla a tutto schermo                                                                                                                                                                                                                                      |
-| Correttezza geometria | <p>mostra o meno la correttezza della geometria del percorso: </p><p>-<img src="../../../.gitbook/assets/image (68).png" alt=""> geometria corretta<br>-<img src="../../../.gitbook/assets/image (69).png" alt=""> geometria non corretta</p>                                                                                  |
-| Coerenza ref REI      | <p>mostra o meno la coerenza del codice REI, tra quello calcolato e quello presente su OpenStreetMap</p><p>-<img src="../../../.gitbook/assets/image (68).png" alt=""> codice REI coerente<br>-<img src="../../../.gitbook/assets/image (69).png" alt=""> codice REI non coerente</p>                                          |
-| Geometry Sync         | <p>mostra o meno la sincronizzazione della geometria del percorso, tra quella presente su OpenStreetMap e quella nel database OSM2CAI</p><p>-<img src="../../../.gitbook/assets/image (68).png" alt=""> geometria sincronizzata<br>-<img src="../../../.gitbook/assets/image (69).png" alt=""> geometria non sincronizzata</p> |
+| Correttezza geometria | <p>mostra o meno la correttezza della geometria del percorso: </p><p>-<img src="../../../.gitbook/assets/image (74).png" alt=""> geometria corretta<br>-<img src="../../../.gitbook/assets/image (75).png" alt=""> geometria non corretta</p>                                                                                  |
+| Coerenza ref REI      | <p>mostra o meno la coerenza del codice REI, tra quello calcolato e quello presente su OpenStreetMap</p><p>-<img src="../../../.gitbook/assets/image (74).png" alt=""> codice REI coerente<br>-<img src="../../../.gitbook/assets/image (75).png" alt=""> codice REI non coerente</p>                                          |
+| Geometry Sync         | <p>mostra o meno la sincronizzazione della geometria del percorso, tra quella presente su OpenStreetMap e quella nel database OSM2CAI</p><p>-<img src="../../../.gitbook/assets/image (74).png" alt=""> geometria sincronizzata<br>-<img src="../../../.gitbook/assets/image (75).png" alt=""> geometria non sincronizzata</p> |
 
 ### Azioni disponibili
 
 In questa parte è possibile svolgere le seguenti azioni:
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Azioni disponibili</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Azioni disponibili</p></figcaption></figure>
 
 | CAMPO                         | DESCRIZIONE                                                                                                                                                                                 |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -112,7 +112,7 @@ In questa parte è possibile svolgere le seguenti azioni:
 
 Tramite la action \<UPLOAD GPX/KML/GEOJSON> è possibile carica una traccia di confronto, ricavata da un rilievo sul campo
 
-<figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Il file che verrà caricato servirà esclusivamente per essere confrontato con la traccia presente nel Catasto/OpenStreetMap; in caso di validazione sarà la traccia del Catasto/OpenStreetMap (in mappa di colore blu) ad essere validata.
@@ -122,7 +122,7 @@ Il file che verrà caricato servirà esclusivamente per essere confrontato con l
 
 Tramite la action \<VALIDATE> è possibile validare un percorso
 
-<figure><img src="../../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Un percorso può essere validato solo se è in [stato di accatastamento ](../../../piattaforma/definizioni/stato-di-accatastamento.md)uguale a 3; ed è necessario caricare un traccia del rilievo per il confronto
@@ -132,7 +132,7 @@ Un percorso può essere validato solo se è in [stato di accatastamento ](../../
 
 Tramite la action \<SYNC WITH OSM DATA> è possibile forzare la sincronizzazione&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 La sincronizzazione ha validità fino alla mezzanotte del giorno in cui è stata effetuata; per motivi tecnici dopo tale orario la sincronizzazione automatica sovrascriverà con le informazioni non aggiornate
@@ -142,7 +142,7 @@ La sincronizzazione ha validità fino alla mezzanotte del giorno in cui è stata
 
 Tramite la action \<REVERT VALIDATION> permette di riportare lo stato di accatastamento di un percorso da 4 a 3.
 
-<figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 È possibile revertare lo [stato di accatastamento](../../../piattaforma/definizioni/stato-di-accatastamento.md) da 4 a 3, azione necessaria per permettere al sistema di sincronizzare le modifiche effetuate succesivamente alla validazione
@@ -152,7 +152,7 @@ Tramite la action \<REVERT VALIDATION> permette di riportare lo stato di accatas
 
 Tramite la action \<ELIMINA> è possibile eliminare un percorso da OSM2CAI
 
-<figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Un percorso può essere eliminato da OSM2CAI solo se è stata eliminata la corrispondente relazione su OpenStreetMap
@@ -162,17 +162,17 @@ Un percorso può essere eliminato da OSM2CAI solo se è stata eliminata la corri
 
 Tramite la action \<PERCORSO FAVORITO> è inserire il percorso tra i favoriti, aggiunge una descrizione e un'immagine.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Interfaccia di inserimento</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Interfaccia di inserimento</p></figcaption></figure>
 
 #### Percorribilità
 
 Tramite la action \<PERCORRIBILITÀ> è possibile aggiornare lo [stato di percorribilità](../../../piattaforma/definizioni/stato-di-percorribilita.md) di un percorso
 
-<figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 ### Sezione metadata
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 In questa parte è possibile visualizzare le seguenti informazioni:
 
@@ -246,7 +246,7 @@ In questa parte è possibile visualizzare le seguenti informazioni:
 | Automatic Abstract (computed for TDH) | mostra il campo generato automaticamente relativo alla descrizione del percorso                                                                                                                                                                                               |
 | Feature Image                         | mostra la presenza o meno dell'immagine associata al percorso                                                                                                                                                                                                                 |
 | Description CAI IT                    | mostra la descrizione del percorso inserita dall'utente                                                                                                                                                                                                                       |
-| Region Favorite                       | <p>mostra la presenza o meno della selezione <br>percorso favorito</p><p>-<img src="../../../.gitbook/assets/image (68).png" alt=""> percorso segnalato come favorito<br>-<img src="../../../.gitbook/assets/image (69).png" alt=""> percorso non segnalato come favorito</p> |
+| Region Favorite                       | <p>mostra la presenza o meno della selezione <br>percorso favorito</p><p>-<img src="../../../.gitbook/assets/image (74).png" alt=""> percorso segnalato come favorito<br>-<img src="../../../.gitbook/assets/image (75).png" alt=""> percorso non segnalato come favorito</p> |
 
 
 {% endtab %}
@@ -266,13 +266,13 @@ In questa parte è possibile visualizzare le seguenti informazioni:
 {% tab title="POI" %}
 In questa sezione vengono mostrati i POI presenti del database di OSM2CAI, in un buffer di un chilometro (1 Km) dal percorso
 
-<figure><img src="../../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Huts" %}
 In questa sezione vengono mostrati i Rifugi o Bivacchi presenti del database di OSM2CAI, in un buffer di un chilometro (1 Km) dal percorso
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Natural Springs" %}

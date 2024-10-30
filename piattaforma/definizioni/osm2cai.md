@@ -1,6 +1,6 @@
 # OSM2CAI
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption><p>architettura del sistema di accatastamento</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption><p>architettura del sistema di accatastamento</p></figcaption></figure>
 
 * OSM2CAI mostra i percorsi escursionistici presenti su OSM
 * In OSM2CAI i percorsi vengono classificati in base allo stato di accatastamento e vengono automaticamente assegnati al settore di appartenenza

@@ -1,6 +1,6 @@
 # Validazione percorso
 
-La validazione di un percorso attraverso la piattaforma OSM2CAI, consiste nel congelare i metadati di un percorso, dopo la verifica degli stessi da parte di un Referente Nazionale o Regionale o Locale.
+La validazione di un percorso attraverso la piattaforma OSM2CAI, consiste nel congelare i metadati di un percorso, dopo la verifica degli stessi da parte di un Referente Nazionale o Regionale o Locale o Sezionale; in funzione dei permessi territtoriali corrispondenti
 
 Il processo di validazione prevede il caricamento della traccia del percorso, ricavata da un rilievo fatto; tale traccia può essere la stessa che viene usata per aggiornare il percorso su OpenStreetMap
 

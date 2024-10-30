@@ -1,6 +1,6 @@
 # Overpass-turbo
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 **Overpass-turbo** è un'applicazione web che permette di interrogare la banca dati OpenStreetMap e salvare i risultati ottenuti in formati geografici (e non).
 

@@ -6,7 +6,7 @@ Queste funzionalità sono estese a tutti gli utenti, fermo restando le limitazio
 
 In questa sezione viene mostrato il riepilogo in tempo reale della Rete Escursionistica Italiana
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Riepilogo nazionale della Rete Escursionistica Italiana</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption><p>Riepilogo nazionale della Rete Escursionistica Italiana</p></figcaption></figure>
 
 ***
 
@@ -28,7 +28,7 @@ Nel campo di ricerca è possibile ricercare i seguenti elementi, se presenti nel
 * **rifugi CAI:** tramite \[nome rifugio], per esempio "Felik"
 * **gruppi montuosi:** tramite \[nome gruppo montuoso], per esempio "giudicarie"
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>esempio di ricerca tramite ref 135A</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>esempio di ricerca tramite ref 135A</p></figcaption></figure>
 
 ***
 
@@ -36,9 +36,9 @@ Nel campo di ricerca è possibile ricercare i seguenti elementi, se presenti nel
 
 In questo sezione è possibile visualizzare tutti percorsi escursionistici che risultano al momento nel database.
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-La tabella ha le seguenti colonne e i campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../.gitbook/assets/image (73).png>), accanto al nome.
+La tabella ha le seguenti colonne e i campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../.gitbook/assets/image (79).png>), accanto al nome.
 
 | CAMPO                                                                 | DESCRIZIONE                                                                   |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -52,8 +52,8 @@ La tabella ha le seguenti colonne e i campi contrassegnati con "\*" sono ordinab
 | PERCORRIBILITÀ \*                                                     | Stato di percorribilità                                                       |
 | ULTIMA RICOGNIZIONE \*                                                | Data ultima ricognizione                                                      |
 | STATO \*                                                              | Stato di accatastamento                                                       |
-| <img src="../.gitbook/assets/image (74).png" alt="" data-size="line"> | Permette di aggiungere o aggiornare lo stato di percorribilità di un percorso |
-| <img src="../.gitbook/assets/image (75).png" alt="" data-size="line"> | Permette di accedere alla pagina di dettaglio di un percorso                  |
+| <img src="../.gitbook/assets/image (80).png" alt="" data-size="line"> | Permette di aggiungere o aggiornare lo stato di percorribilità di un percorso |
+| <img src="../.gitbook/assets/image (81).png" alt="" data-size="line"> | Permette di accedere alla pagina di dettaglio di un percorso                  |
 
 #### **Campo cerca secondario**
 
@@ -63,11 +63,11 @@ Il campo di ricerca secondario è declinato in funzione dei permessi territorial
 
 Questo filtro restiutisce solo i percorsi con un dato stato di accatastamento
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption><p>filtro per stato di accatastamento</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p>filtro per stato di accatastamento</p></figcaption></figure>
 
 #### Altri filtri disponibili
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 Questo filtro permette di filtrare attraverso i seguenti campi:
 

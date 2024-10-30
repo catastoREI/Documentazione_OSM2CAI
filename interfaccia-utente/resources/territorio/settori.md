@@ -15,9 +15,9 @@ In questa sezione viene mostrato l'elenco riepilogativo di tutti i settori Itali
 | PROVINCE      | provincia di appartenenza                                                                                       |
 | AREA          | area di appartenenza                                                                                            |
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption><p>Riepilogo Settori</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Riepilogo Settori</p></figcaption></figure>
 
-I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (73).png>), accanto al nome.
+I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (79).png>), accanto al nome.
 
 ### Scaricamento dati
 
@@ -37,14 +37,14 @@ Inoltre è disponibile per ogni Regione il download dei seguenti dati:
 \- Area\
 \- Campo responsabili vuoto
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Esempio filtro</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Esempio filtro</p></figcaption></figure>
 
 ### Dettaglio Settore
 
 Per ogni Settore è disponibile una pagina riepilogativa con tutti i dati relativi all'Settore selezionata
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption><p>Riepilogo percorsi nel Settore</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption><p>Riepilogo percorsi nel Settore</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption><p>Riepilogo dati e geometria del Settore</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption><p>Riepilogo dati e geometria del Settore</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption><p>Riepilogo utenti responsabili</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption><p>Riepilogo utenti responsabili</p></figcaption></figure>

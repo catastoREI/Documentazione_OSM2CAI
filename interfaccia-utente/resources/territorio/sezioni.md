@@ -17,15 +17,15 @@ In questa sezione viene mostrato l'elenco riepilogativo di tutte le Sezioni CAI 
 | SPPP          | numero percorsi in stato di percorribilità parzialmente percorribile              |
 | SPNP          | numero percorsi in stato di percorribilità non percorribile                       |
 
-I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (73).png>), accanto al nome.
+I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (79).png>), accanto al nome.
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption><p>Lista delle Sezioni CAI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption><p>Lista delle Sezioni CAI</p></figcaption></figure>
 
 ### Filtro
 
 È disponibile un filtro su base regionale
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Filtro per Regione</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Filtro per Regione</p></figcaption></figure>
 
 ### Pagina Sezione
 
@@ -33,7 +33,7 @@ Per ogni Sezione è disponibile una pagina riepilogativa dove vengono mostrati i
 
 #### Riepilogo dati
 
-<figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption><p>Riepilogo Sezione</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption><p>Riepilogo Sezione</p></figcaption></figure>
 
 In questa sezione vengono mostrati:\
 \- numero percorsi nei diversi stati di accatastamento\
@@ -44,7 +44,7 @@ In questa sezione vengono mostrati:\
 
 #### Download dati
 
-<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 In questa sezione è possibile effettuare scaricare i seguenti dati:\
 \- file .geojson dei percorsi\
@@ -52,7 +52,7 @@ In questa sezione è possibile effettuare scaricare i seguenti dati:\
 
 #### Lista Utenti
 
-<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption><p>Elenco utenti associati alla Sezione</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Elenco utenti associati alla Sezione</p></figcaption></figure>
 
 #### Lista percorsi
 
@@ -60,7 +60,7 @@ In questa sezione è possibile effettuare scaricare i seguenti dati:\
 **ATTENZIONE:** per far comparire i percorsi nella lista dei percorsi della Sezione è necessario inserire il codice Sezione su OpenStreetMap, ed attendere o forzare la sincronizzazione
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption><p>Elenco percorsi associati alla Sezione</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Elenco percorsi associati alla Sezione</p></figcaption></figure>
 
 Sono disponibili i seguenti filtri:
 

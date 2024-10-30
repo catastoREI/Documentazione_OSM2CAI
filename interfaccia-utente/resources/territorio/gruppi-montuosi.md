@@ -6,7 +6,7 @@ DATABASE IN FASE DI ARRICCHIMENTO
 
 In questa sezione verrano mostrati i risultati del progetto Gruppi Montuosi della SOSEC
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ### Filtro
 

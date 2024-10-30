@@ -4,7 +4,7 @@
 
 Al fine di assegnare ai percorsi escursionistici un codice univoco, le province delle regioni italiane sono state suddivise in aree e settori. La aree vengono nominate con una lettera mentre i settori con un numero che va da 1 a 9. Se un’area deve essere suddivisa in più di nove settori, dal decimo viene utilizzata una lettera.
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption><p>Suddivisione Aree e Settori</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption><p>Suddivisione Aree e Settori</p></figcaption></figure>
 
 {% embed url="http://osm2cai.j.webmapp.it/" %}
 mappa web della suddivisione in Aree e Settori

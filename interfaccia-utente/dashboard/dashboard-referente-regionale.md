@@ -20,20 +20,20 @@ Nel dettaglio il Referente Regionale può ricavare le seguenti informazioni:
 
 \- Download dato della suddivisione territoriale in Aree e Settori
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p>Esempio di dashboard referente regionale</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption><p>Esempio di dashboard referente regionale</p></figcaption></figure>
 
 ### Riepilogo nazionale
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 ### Riepilogo settori
 
 Questa sezione offre una panoramica dettagliata dei settori, con i dati sullo stato di accatastamento e stato di avanzamento
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ### Riepilogo Percorribilità
 
 Questa sezione offre una panoramica dettagliata dello stato di percorribilità dei percorsi
 
-<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>

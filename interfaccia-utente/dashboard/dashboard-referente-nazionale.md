@@ -16,4 +16,4 @@ Nel dettaglio il Referente Nazionale può ricavare le seguenti informazioni:
 
 \- Percorsi escursionistici (SDA) nazionale
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Esempio di dashboard referente nazionale</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Esempio di dashboard referente nazionale</p></figcaption></figure>

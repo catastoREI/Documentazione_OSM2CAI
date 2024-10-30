@@ -12,9 +12,9 @@ In questa sezione viene mostrato l'elenco riepilogativo di tutte le Aree Italian
 | REGION       | regione di appartenenza                                                                                         |
 | SECTORS      | numero dei settori presenti in Provincia                                                                        |
 
-<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Riepilogo Aree</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Riepilogo Aree</p></figcaption></figure>
 
-I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (73).png>), accanto al nome.
+I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (79).png>), accanto al nome.
 
 ### Scaricamento dati
 
@@ -34,4 +34,4 @@ Inoltre è disponibile per ogni Regione il download dei seguenti dati:
 
 Per ogni Area è disponibile una pagina riepilogativa con tutti i dati relativi all'Area selezionata
 
-<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption><p>Dettaglio Area</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption><p>Dettaglio Area</p></figcaption></figure>

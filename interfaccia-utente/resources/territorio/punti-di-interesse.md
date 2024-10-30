@@ -6,4 +6,4 @@ DATABASE IN FASE DI ARRICCHIMENTO
 
 In questa sezione è possibile gestire o visualizzare i punti di interesse
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

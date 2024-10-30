@@ -15,7 +15,7 @@ In questa sezione viene mostrato l'elenco riepilogativo di tutte le Regioni Ital
 | 1             | numero dei percorsi in Regione, con stato di accatastamento uguale a 1 |
 | 0             | numero dei percorsi in Regione, con stato di accatastamento uguale a 0 |
 
-I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (73).png>), accanto al nome.
+I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordinabili hanno la seguente icona ![](<../../../.gitbook/assets/image (79).png>), accanto al nome.
 
 ### Scaricamento dati
 
@@ -27,4 +27,4 @@ Inoltre è disponibile per ogni Regione il download dei seguenti dati:
 * file .geojson dei Percorsi (aggiornato giornalmente)
 * file .csv dei Percorsi (aggiornato giornalmente)
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Riepilogo Regioni Italiane</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption><p>Riepilogo Regioni Italiane</p></figcaption></figure>

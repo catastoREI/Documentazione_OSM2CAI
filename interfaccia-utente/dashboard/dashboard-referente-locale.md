@@ -20,14 +20,14 @@ Nel dettaglio il Referente Nazionale può ricavare le seguenti informazioni:
 
 \- Download dato della suddivisione territoriale in Aree e Settori
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Esempio di dashboard referente locale</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption><p>Esempio di dashboard referente locale</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption><p>Esempio di riepilogo relativo alla zona territoriale associata all'utente</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption><p>Esempio di riepilogo relativo alla zona territoriale associata all'utente</p></figcaption></figure>
 
 ### Dashboard nazionale
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 ### Riepilogo Percorribilità
 
-<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
