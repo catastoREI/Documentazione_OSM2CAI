@@ -27,11 +27,11 @@ I campi contrassegnati con "\*" sono ordinabili; nella piattaforma i campi ordin
 
 <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Filtro per Regione</p></figcaption></figure>
 
-### Pagina Sezione
+## Pagina Sezione
 
 Per ogni Sezione è disponibile una pagina riepilogativa dove vengono mostrati i dati relativi alla Sezione, gli utenti associati alla Sezione e i percorsi gestiti
 
-#### Riepilogo dati
+### Riepilogo dati
 
 <figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption><p>Riepilogo Sezione</p></figcaption></figure>
 
@@ -42,7 +42,7 @@ In questa sezione vengono mostrati:\
 \- numero totale dei percorsi monitorati dalla Sezione\
 \- numero totale dei chilometri dei percorsi monitorati dalla Sezione
 
-#### Download dati
+### Download dati
 
 <figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,14 +50,19 @@ In questa sezione è possibile effettuare scaricare i seguenti dati:\
 \- file .geojson dei percorsi\
 \- file .csv con l'elenco dei percorsi
 
-#### Lista Utenti Gruppo sentieri
+### Referente Sezionale della Setnieristica
 
-Qui vengono mostrati i membri del Gruppo Sentieri della Sezione.\
-Il Responsabile Sentieristica della Sezione può aggiungerli tramite la Action \<Associa Utente>
+I Referenti Regionali possono assegnare il ruolo di **Referente Seziona della Setnieristica**, ad un qualunque utente che abbia fatto l'accesso alla piattaforma, tramite la Action \<Assegna responsabile sezione>
 
-<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption><p>Elenco utenti associati alla Sezione</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-#### Lista percorsi
+### Lista membri Gruppo Sentieri
+
+Il Referente Sezionale della Setnieristica possono assegnare il ruolo di **Membro del Gruppo Sentieri**, ad un qualunque utente che abbia fatto l'accesso alla piattaforma, tramite la Action \<Aggiungi membri alla sezione>
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+### Lista percorsi
 
 {% hint style="warning" %}
 **ATTENZIONE:** per far comparire i percorsi nella lista dei percorsi della Sezione è necessario inserire il codice Sezione su OpenStreetMap, ed attendere o forzare la sincronizzazione

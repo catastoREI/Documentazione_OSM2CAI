@@ -28,7 +28,7 @@ Inoltre è disponibile per ogni Regione il download dei seguenti dati:
 
 È disponibile un filtro su base provinciale
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Dettaglio Aree
 

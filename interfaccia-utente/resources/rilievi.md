@@ -12,13 +12,13 @@ In questa sezione vengono mostrati i dati acquisiti tramite le seguenti APP, cor
 
 In questa sottosezione viene mostrato l'elenco dei poi rilevati dagli utenti
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Scaricamento dati
 
 È possibile scaricare i propri POI dopo averle selezionate dalla lista, sia in formato .CSV che GeoJSON; attraverso le singole Action
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Scaricamento POI</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Scaricamento POI</p></figcaption></figure>
 
 ### Track
 
@@ -28,7 +28,7 @@ In questa sottosezione viene mostrato l'elenco delle tracce rilevate dagli utent
 
 È possibile scaricare le proprie TRACK dopo averle selezionate dalla lista, sia in formato .zip che GeoJSON; attraverso le singole Action
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Scaricamento TRACK</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Scaricamento TRACK</p></figcaption></figure>
 
 ### Immagini
 
