@@ -47,4 +47,8 @@ Per ogni Settore è disponibile una pagina riepilogativa con tutti i dati relati
 
 <figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption><p>Riepilogo dati e geometria del Settore</p></figcaption></figure>
 
+### Associazione Territoriale
+
+Tramite \<Attach Responsabili> è possibile associare un utente al settore, in modo che possa procedere alle operazioni di validazione dei percorsi
+
 <figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption><p>Riepilogo utenti responsabili</p></figcaption></figure>
