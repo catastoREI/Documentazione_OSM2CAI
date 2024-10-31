@@ -50,9 +50,12 @@ In questa sezione è possibile effettuare scaricare i seguenti dati:\
 \- file .geojson dei percorsi\
 \- file .csv con l'elenco dei percorsi
 
-#### Lista Utenti
+#### Lista Utenti Gruppo sentieri
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Elenco utenti associati alla Sezione</p></figcaption></figure>
+Qui vengono mostrati i membri del Gruppo Sentieri della Sezione.\
+Il Responsabile Sentieristica della Sezione può aggiungerli tramite la Action \<Associa Utente>
+
+<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption><p>Elenco utenti associati alla Sezione</p></figcaption></figure>
 
 #### Lista percorsi
 
