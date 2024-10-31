@@ -6,11 +6,12 @@ Gli Amministrari, i Referenti Nazionali e i Referenti Regionali possono modifica
 
 ### Referente Sezionale della Sentieristica
 
-Nel profilo dell'utente, il Referente Regionale puà aggiornare il campo \<Managed Section>, che rappresenta il ruolo di Referente Sezionale della Sentieristica
+Nel profilo dell'utente, il Referente Regionale può aggiornare il campo \<Managed Section>, che rappresenta il ruolo di Referente Sezionale della Sentieristica
 
 <figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption><p>Assegnazione ruolo Referente Sentieristica</p></figcaption></figure>
 
-In alternativa è possibile ottenere lo stesso risultato, nella pagine della lista delle Sezioni, tramite la Action \<Assegna responsabile Sezione>
+In alternativa è possibile ottenere lo stesso risultato, nella pagine della lista delle Sezioni, tramite la Action \<Assegna responsabile Sezione>.\
+Il campo \<Data di scadenza dell'incarico> non è obbligatorio.
 
 <figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption><p>1 - seleziona la Sezione che da aggiornare, e la Action &#x3C;Assegna responsabile Sezione></p></figcaption></figure>
 
@@ -25,5 +26,3 @@ Tramite la action \<Associa utente> è possibile cercare tra gli utenti della pi
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>2 - cerca utenti</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>3 - associazione territoriale</p></figcaption></figure>
-
-### Referente di Sezione
