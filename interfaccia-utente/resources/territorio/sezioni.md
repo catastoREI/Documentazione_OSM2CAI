@@ -52,13 +52,13 @@ In questa sezione è possibile effettuare scaricare i seguenti dati:\
 
 ### Referente Sezionale della Setnieristica
 
-I Referenti Regionali possono assegnare il ruolo di **Referente Seziona della Setnieristica**, ad un qualunque utente che abbia fatto l'accesso alla piattaforma, tramite la Action \<Assegna responsabile sezione>
+I Referenti Regionali possono assegnare il ruolo di **Referente Sezionale della Sentieristica**, ad un qualunque utente che abbia fatto l'accesso alla piattaforma, tramite la Action \<Assegna responsabile sezione>
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Lista membri Gruppo Sentieri
 
-Il Referente Sezionale della Setnieristica possono assegnare il ruolo di **Membro del Gruppo Sentieri**, ad un qualunque utente che abbia fatto l'accesso alla piattaforma, tramite la Action \<Aggiungi membri alla sezione>
+Il Referente Sezionale della **Sentieristica** possono assegnare il ruolo di **Membro del Gruppo Sentieri**, ad un qualunque utente che abbia fatto l'accesso alla piattaforma, tramite la Action \<Aggiungi membri alla sezione>
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
