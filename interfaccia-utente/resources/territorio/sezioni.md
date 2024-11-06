@@ -50,7 +50,7 @@ In questa sezione è possibile effettuare scaricare i seguenti dati:\
 \- file .geojson dei percorsi\
 \- file .csv con l'elenco dei percorsi
 
-### Referente Sezionale della Setnieristica
+### Referente Sezionale della **Sentieristica**
 
 I Referenti Regionali possono assegnare il ruolo di **Referente Sezionale della Sentieristica**, ad un qualunque utente che abbia fatto l'accesso alla piattaforma, tramite la Action \<Assegna responsabile sezione>
 
