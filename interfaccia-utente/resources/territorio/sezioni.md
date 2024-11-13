@@ -56,7 +56,7 @@ I Referenti Regionali possono assegnare il ruolo di **Referente Sezionale della 
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-È disponibile un campo cerca per selezionare l'utente desiderato
+Una volta selzionata la action, sarà disponibile un campo cerca per selezionare l'utente desiderato
 
 <figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption><p>menu per la ricerca dell'utente</p></figcaption></figure>
 
@@ -65,6 +65,10 @@ I Referenti Regionali possono assegnare il ruolo di **Referente Sezionale della 
 Il Referente Sezionale della **Sentieristica** possono assegnare il ruolo di **Membro del Gruppo Sentieri**, ad un qualunque utente che abbia fatto l'accesso alla piattaforma, tramite la Action \<Aggiungi membri alla sezione>
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Una volta selzionata la action, sarà disponibile un campo cerca per selezionare l'utente desiderato
+
+<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption><p>menu per la ricerca dell'utente</p></figcaption></figure>
 
 ### Lista percorsi
 
