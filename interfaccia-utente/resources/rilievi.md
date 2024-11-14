@@ -4,8 +4,8 @@
 
 In questa sezione vengono mostrati i dati acquisiti tramite le seguenti APP, correlati all'account collegato alla piattaforma.
 
-* [**APP del Sentierista**](../../piattaforma/app-del-sentierista.md)
-* APP AcquaSorgente
+* [APP del Sentierista](../../piattaforma/app-del-sentierista.md)
+* [APP AcquaSorgente](../../piattaforma/app-acquasorgente.md)
 * APP Sentiero Italia CAI
 
 ### Poi
