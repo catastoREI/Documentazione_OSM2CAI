@@ -33,14 +33,18 @@ Il campo <**Data di scadenza dell'incarico**> non è obbligatorio.
 
 Tramite la action <**Associa utente**> è possibile cercare tra gli utenti della piattaforma, sia per \<Nome Cognome> che per \<indirizzo email>; una volta trovato l'utente cercato si potrà fare l'associazione territoriale dal profilo, tramite le opzioni **\<Attach Province>**, **\<Attach Aree>** o **\<Attach Settori>**
 
+{% hint style="warning" %}
+L'utente con tale ruolo può validare i percorsi che insistono nell'area assegnata
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>1 - Associa utente</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>2 - cerca utenti</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>3 - associazione territoriale</p></figcaption></figure>
 
-#### Modifica Associazione territoriale
+#### Modifica profilo utente
 
-Come Admin, Referente Nazionale e Referente Regionale, è possibile aggiornare il ruolo dell'utente; entrando in modalità modifica (![](<../../.gitbook/assets/image (138).png>))  nella lista utenti.
+Come Admin, Referente Nazionale e Referente Regionale, è possibile aggiornare il ruolo di Referente Sezionale dell'utente; entrando in modalità modifica (![](<../../.gitbook/assets/image (138).png>))  nella lista utenti.
 
 <figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
