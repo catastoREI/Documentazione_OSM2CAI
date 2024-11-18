@@ -63,7 +63,7 @@ Una volta selzionata la action, sarà disponibile un campo cerca per selezionare
 {% hint style="warning" %}
 Gli Admin, i Referenti Nazionali e i Referenti Regionali possono modificare il ruolo di Referente Sezionale andando a modificare l'informazione nel profilo dell'utente.
 
-Fare riferimento al seguente paragrafo: [Modifica Associazione territoriale](https://catastorei.gitbook.io/documentazione-osm2cai/interfaccia-utente/resources/utenti#modifica-associazione-territoriale)
+Fare riferimento al seguente paragrafo: [Modifica profilo utente](https://catastorei.gitbook.io/documentazione-osm2cai/interfaccia-utente/resources/utenti#modifica-profilo-utente)
 {% endhint %}
 
 ### Lista membri Gruppo Sentieri
