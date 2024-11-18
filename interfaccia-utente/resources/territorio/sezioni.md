@@ -60,13 +60,17 @@ Una volta selzionata la action, sarà disponibile un campo cerca per selezionare
 
 <figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption><p>menu per la ricerca dell'utente</p></figcaption></figure>
 
+{% hint style="warning" %}
+Gli Admin, i Referenti Nazionali e i Referenti Regionali possono modificare il ruolo di Referente Sezionale andando a modificare l'informazione nel profilo dell'utente.
+{% endhint %}
+
 ### Lista membri Gruppo Sentieri
 
 Il Referente Sezionale della **Sentieristica** possono assegnare il ruolo di **Membro del Gruppo Sentieri**, ad un qualunque utente che abbia fatto l'accesso alla piattaforma, tramite la Action \<Aggiungi membri alla sezione>
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Una volta selzionata la action, sarà disponibile un campo cerca per selezionare l'utente desiderato
+Una volta selezionata la action, sarà disponibile un campo cerca per selezionare l'utente desiderato
 
 <figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption><p>menu per la ricerca dell'utente</p></figcaption></figure>
 
