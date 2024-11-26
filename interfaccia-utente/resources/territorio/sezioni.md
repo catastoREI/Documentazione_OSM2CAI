@@ -52,6 +52,12 @@ In questa sezione è possibile effettuare scaricare i seguenti dati:\
 
 ### Referente Sezionale della **Sentieristica**
 
+{% hint style="warning" %}
+Le condizioni per poter assegnare i ruoli ad un utente sono:\
+\- l'utente deve avere il MyCAI attivo ([https://soci.cai.it/](https://soci.cai.it/));\
+\- l'utente deve aver fatto almeno un login sulla piattaforma OSM2CAI ([https://osm2cai.cai.it/](https://osm2cai.cai.it/))
+{% endhint %}
+
 I Referenti Regionali possono assegnare il ruolo di **Referente Sezionale della Sentieristica**, ad un qualunque utente che abbia fatto l'accesso alla piattaforma, tramite la Action \<Assegna responsabile sezione>.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
@@ -60,13 +66,19 @@ Una volta selzionata la action, sarà disponibile un campo cerca per selezionare
 
 <figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption><p>menu per la ricerca dell'utente</p></figcaption></figure>
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Gli Admin, i Referenti Nazionali e i Referenti Regionali possono modificare il ruolo di Referente Sezionale andando a modificare l'informazione nel profilo dell'utente.
 
 Fare riferimento al seguente paragrafo: [Modifica profilo utente](https://catastorei.gitbook.io/documentazione-osm2cai/interfaccia-utente/resources/utenti#modifica-profilo-utente)
 {% endhint %}
 
 ### Lista membri Gruppo Sentieri
+
+{% hint style="warning" %}
+Le condizioni per poter assegnare i ruoli ad un utente sono:\
+\- l'utente deve avere il MyCAI attivo ([https://soci.cai.it/](https://soci.cai.it/));\
+\- l'utente deve aver fatto almeno un login sulla piattaforma OSM2CAI ([https://osm2cai.cai.it/](https://osm2cai.cai.it/))
+{% endhint %}
 
 Il Referente Sezionale della **Sentieristica** possono assegnare il ruolo di **Membro del Gruppo Sentieri**, ad un qualunque utente che abbia fatto l'accesso alla piattaforma, tramite la Action \<Aggiungi membri alla sezione>
 
