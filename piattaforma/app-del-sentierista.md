@@ -28,6 +28,10 @@ I dati raccolti utilizzando l'APP, quali punti di interesse (sorgenti, luoghi di
 [rilievi.md](../interfaccia-utente/resources/rilievi.md)
 {% endcontent-ref %}
 
+## Livelli mappa
+
+<figure><img src="../.gitbook/assets/app6.png" alt="" width="181"><figcaption></figcaption></figure>
+
 ## Funzioni di registrazione&#x20;
 
 <figure><img src="../.gitbook/assets/app5.png" alt="" width="180"><figcaption><p>menu scelta azione:<br>- registrare un waypoint<br>- registrare una traccia</p></figcaption></figure>
@@ -66,4 +70,4 @@ Durante la registrazione di una traccia è anche possibile registrare un waypoin
 
 ## Profilo utente
 
-<div><figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (14).png" alt="" width="188"><figcaption><p>menu &#x3C;profilo utente></p></figcaption></figure> <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (16).png" alt="" width="188"><figcaption><p>dettaglio traccia registrata,<br>con possibilità di scaricamento</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/app10.png" alt="" width="178"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (16).png" alt="" width="188"><figcaption><p>dettaglio traccia registrata,<br>con possibilità di scaricamento</p></figcaption></figure> <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (14).png" alt="" width="188"><figcaption><p>menu &#x3C;profilo utente></p></figcaption></figure></div>
