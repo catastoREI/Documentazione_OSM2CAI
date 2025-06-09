@@ -1,22 +1,6 @@
 # APP del Sentierista
 
-<div>
-
-<figure><img src="../.gitbook/assets/1.png" alt="" width="177"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/2.png" alt="" width="176"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/5.png" alt="" width="175"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/6.png" alt="" width="176"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/app1.png" alt="" width="183"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/qpp2.png" alt="" width="183"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/app3.png" alt="" width="180"><figcaption></figcaption></figure></div>
 
 ***
 
@@ -46,11 +30,11 @@ I dati raccolti utilizzando l'APP, quali punti di interesse (sorgenti, luoghi di
 
 ## Funzioni di registrazione&#x20;
 
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (23).png" alt="" width="188"><figcaption><p>menu scelta azione:<br>- registrare un waypoint<br>- registrare una traccia<br>- scattare o caricare una foto</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/app5.png" alt="" width="180"><figcaption><p>menu scelta azione:<br>- registrare un waypoint<br>- registrare una traccia</p></figcaption></figure>
 
 ### Registrazione waypoint
 
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_map(Pixel 7) (3).png" alt="" width="188"><figcaption><p>menu scelta tipo di form:<br>- sentieristica<br>- segnalazione<br>- acqua sorgente<br>- snow water equivalent<br>- punto di interesse</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/app7.png" alt="" width="180"><figcaption><p>menu scelta tipo di form:<br>- Segnalazione<br>- Segnaletica verticale<br>- Segnaletica orizzontale<br>- Rilievo<br>- Progetto Acqua Sorgente</p></figcaption></figure>
 
 {% hint style="info" %}
 Durante la compilazione dei dati relativi al waypoint è possibile associare una o più foto georeferenziate
@@ -58,27 +42,11 @@ Durante la compilazione dei dati relativi al waypoint è possibile associare una
 
 #### Form \<sentieristica>
 
-<div>
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (2).png" alt="" width="188"><figcaption><p>menu form &#x3C;sentieristica></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (3) (1).png" alt="" width="188"><figcaption><p>menu scelta &#x3C;tipologia></p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (2).png" alt="" width="188"><figcaption><p>menu form &#x3C;sentieristica></p></figcaption></figure> <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (3) (1).png" alt="" width="188"><figcaption><p>menu scelta &#x3C;tipologia></p></figcaption></figure></div>
 
 #### Form \<segnalazione>
 
-<div>
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (4).png" alt="" width="188"><figcaption><p>menu form &#x3C;segnalazione></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (5).png" alt="" width="188"><figcaption><p>menu scelta &#x3C;tipologia></p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (4).png" alt="" width="188"><figcaption><p>menu form &#x3C;segnalazione></p></figcaption></figure> <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (5).png" alt="" width="188"><figcaption><p>menu scelta &#x3C;tipologia></p></figcaption></figure></div>
 
 #### Form \<acqua sorgente>
 
@@ -90,27 +58,11 @@ Durante la compilazione dei dati relativi al waypoint è possibile associare una
 
 #### Form \<punto di interesse>
 
-<div>
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (9).png" alt="" width="188"><figcaption><p>menu form &#x3C;punto di interesse></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (10).png" alt="" width="188"><figcaption><p>menu scelta &#x3C;tipologia></p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (9).png" alt="" width="188"><figcaption><p>menu form &#x3C;punto di interesse></p></figcaption></figure> <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (10).png" alt="" width="188"><figcaption><p>menu scelta &#x3C;tipologia></p></figcaption></figure></div>
 
 ### Registrazione traccia
 
-<div>
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (21).png" alt="" width="188"><figcaption><p>schermata &#x3C;inizio registrazione traccia></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (12) (1).png" alt="" width="188"><figcaption><p>schermata durante la registrazione</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (21).png" alt="" width="188"><figcaption><p>schermata &#x3C;inizio registrazione traccia></p></figcaption></figure> <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (12) (1).png" alt="" width="188"><figcaption><p>schermata durante la registrazione</p></figcaption></figure></div>
 
 {% hint style="info" %}
 Durante la registrazione di una traccia è anche possibile registrare un waypoint, direttamente dall'icona presente.
@@ -124,12 +76,4 @@ Durante la registrazione di una traccia è anche possibile registrare un waypoin
 
 ## Profilo utente
 
-<div>
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (14).png" alt="" width="188"><figcaption><p>menu &#x3C;profilo utente></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (16).png" alt="" width="188"><figcaption><p>dettaglio traccia registrata,<br>con possibilità di scaricamento</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (14).png" alt="" width="188"><figcaption><p>menu &#x3C;profilo utente></p></figcaption></figure> <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (16).png" alt="" width="188"><figcaption><p>dettaglio traccia registrata,<br>con possibilità di scaricamento</p></figcaption></figure></div>
