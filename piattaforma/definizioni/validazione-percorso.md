@@ -16,4 +16,4 @@ Quando un percorso è validato, viene interrotta la sincronizzazione automatica 
 
 Fare riferimento alla sezione apposita per ulteriori dettagli sul processo di validazione, raggiungibile qui [Dettaglio percorso e validazione](https://catastorei.gitbook.io/documentazione-osm2cai/interfaccia-utente/resources/territorio/percorsi-escursionistici-sda#dettaglio-percorso-e-validazione)
 
-\
+<br>

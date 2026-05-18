@@ -83,4 +83,4 @@ Questo filtro permette di filtrare attraverso i seguenti campi:
 | STATO DI PERCORRENZA         | Restituisce i percorsi con un definito stato di percorrenza                                                  |
 | CORRETTEZZA GEOMETRIA        | Restituisce i percorsi con una definita correttezza geometrica  (SI/NO)                                      |
 
-\
+<br>

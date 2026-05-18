@@ -75,9 +75,9 @@ In questa parte è possibile visualizzare le seguenti informazioni:
 
 #### Sezione Mappa e validazione
 
-<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption><p>Mappa percorso</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/osm2cai_mappa_track.png" alt=""><figcaption><p>Mappa percorso</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption><p>Esempio di mappa con due tracce:<br>Linea blu: percorso OSM2CAI/OSM<br>Linea rossa: percorso caricato dall'utente</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/osm2cai_mappa_colored_tracks.png" alt=""><figcaption><p>Esempio di mappa con due tracce:<br>Linea blu: percorso OSM2CAI/OSM<br>Linea rossa: percorso caricato dall'utente</p></figcaption></figure>
 
 In questa parte è possibile visualizzare le seguenti informazioni:
 

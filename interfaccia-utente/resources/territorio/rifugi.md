@@ -7,5 +7,3 @@ description: >-
 # Rifugi
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Elenco Rifugi e bivacchi</p></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Dettagli del Rifugio Quintino Sella al Felik</p></figcaption></figure>

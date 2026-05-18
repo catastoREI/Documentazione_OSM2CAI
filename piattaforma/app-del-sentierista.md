@@ -1,6 +1,6 @@
 # APP del Sentierista
 
-<div><figure><img src="../.gitbook/assets/app1.png" alt="" width="183"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/qpp2.png" alt="" width="183"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/app3.png" alt="" width="180"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/app1.png" alt="" width="183"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/app2.png" alt="" width="183"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/app3 (1).png" alt="" width="183"><figcaption></figcaption></figure></div>
 
 ***
 
@@ -30,11 +30,11 @@ I dati raccolti utilizzando l'APP, quali punti di interesse (sorgenti, luoghi di
 
 ## Livelli mappa
 
-<figure><img src="../.gitbook/assets/app6.png" alt="" width="181"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/app6 (1).png" alt="" width="183"><figcaption></figcaption></figure>
 
 ## Funzioni di registrazione&#x20;
 
-<figure><img src="../.gitbook/assets/app5.png" alt="" width="180"><figcaption><p>menu scelta azione:<br>- registrare un waypoint<br>- registrare una traccia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/app5 (1).png" alt="" width="183"><figcaption><p>menu scelta azione:<br>- registrare un waypoint<br>- registrare una traccia</p></figcaption></figure>
 
 ### Registrazione waypoint
 
@@ -46,23 +46,23 @@ Durante la compilazione dei dati relativi al waypoint è possibile associare una
 
 #### Form \<Segnalazione>
 
-<figure><img src="../.gitbook/assets/app12.png" alt="" width="181"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/app12 (1).png" alt="" width="183"><figcaption></figcaption></figure>
 
 #### Form \<Segnaletica verticale>
 
-<figure><img src="../.gitbook/assets/app13.png" alt="" width="179"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.osm2cai.cai.it_.png" alt="" width="183"><figcaption></figcaption></figure>
 
 #### Form \<Segnaletica orizzontale>
 
-<figure><img src="../.gitbook/assets/app14.png" alt="" width="182"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/app14 (1).png" alt="" width="183"><figcaption></figcaption></figure>
 
 #### Form \<Rilievo>
 
-<figure><img src="../.gitbook/assets/app15.png" alt="" width="178"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.osm2cai.cai.it_ (2).png" alt="" width="183"><figcaption></figcaption></figure>
 
 ### Registrazione traccia
 
-<div><figure><img src="../.gitbook/assets/app9.png" alt="" width="180"><figcaption><p>schermata &#x3C;inizio registrazione traccia></p></figcaption></figure> <figure><img src="../.gitbook/assets/app91.png" alt="" width="181"><figcaption><p>schermata durante la registrazione</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/app9 (1).png" alt="" width="183"><figcaption><p>schermata &#x3C;inizio registrazione traccia></p></figcaption></figure> <figure><img src="../.gitbook/assets/app91 (1).png" alt="" width="183"><figcaption><p>schermata durante la registrazione</p></figcaption></figure></div>
 
 {% hint style="info" %}
 Durante la registrazione di una traccia è anche possibile registrare un waypoint, direttamente dall'icona presente.
@@ -70,4 +70,4 @@ Durante la registrazione di una traccia è anche possibile registrare un waypoin
 
 ## Profilo utente
 
-<div><figure><img src="../.gitbook/assets/app10.png" alt="" width="178"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (16).png" alt="" width="188"><figcaption><p>dettaglio traccia registrata,<br>con possibilità di scaricamento</p></figcaption></figure> <figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (14).png" alt="" width="188"><figcaption><p>menu &#x3C;profilo utente></p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/app10.png" alt="" width="178"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mobile_profilo_track.png" alt="" width="183"><figcaption><p>dettaglio traccia registrata,<br>con possibilità di scaricamento</p></figcaption></figure></div>

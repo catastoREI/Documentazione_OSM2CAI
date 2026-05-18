@@ -26,7 +26,7 @@ Implementazione per permettere di ricavare i dati necessari alla pubblicazione d
 
 ### API
 
-[Documentazione relativa alle API](broken-reference)
+[Documentazione relativa alle API](/broken/pages/OPD8bAa6IUCafHZ1RQii)
 
 ### Documentazione OSM2CAI
 

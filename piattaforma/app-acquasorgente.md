@@ -2,15 +2,7 @@
 
 Acquasorgente è il nuovo progetto del Club Alpino Italiano (CAI) dedicato all'identificazione, classificazione e monitoraggio delle sorgenti d'acqua situate nelle aree montane di tutto il territorio nazionale. Questa iniziativa mira a fornire una visione dettagliata e aggiornata delle sorgenti presenti nei territori alpini e appenninici, offrendo informazioni cruciali per la loro gestione e conservazione.
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (125).png" alt="" width="182"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (126).png" alt="" width="181"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (125).png" alt="" width="182"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/acquasorgente_filtri.png" alt="" width="183"><figcaption></figcaption></figure></div>
 
 ***
 
@@ -46,31 +38,19 @@ I dati raccolti utilizzando l'APP, quali punti di interesse (sorgenti, luoghi di
 
 ## Funzioni di registrazione&#x20;
 
-<figure><img src="../.gitbook/assets/image (127).png" alt="" width="182"><figcaption><p>menu scelta azione:<br>- registrare un waypoint<br>- registrare una traccia<br>- scattare o caricare una foto</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/acquasorgente_registrazione.png" alt="" width="183"><figcaption><p>menu scelta azione:<br>- registrare un waypoint<br>- registrare una traccia<br>- scattare o caricare una foto</p></figcaption></figure>
 
-### Registrazione waypoint
+#### Form \<acqua sorgente>
 
-<figure><img src="../.gitbook/assets/image (129).png" alt="" width="181"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/acquasorgente_registrazione_waypoint.png" alt="" width="183"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Durante la compilazione dei dati relativi al waypoint è possibile associare una o più foto georeferenziate
 {% endhint %}
 
-#### Form \<acqua sorgente>
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (7).png" alt="" width="188"><figcaption><p>menu form &#x3C;acqua sorgente></p></figcaption></figure>
-
 ### Registrazione traccia
 
-<div>
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (21).png" alt="" width="188"><figcaption><p>schermata &#x3C;inizio registrazione traccia></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (12) (1).png" alt="" width="188"><figcaption><p>schermata durante la registrazione</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/app9 (1).png" alt="" width="183"><figcaption><p>schermata &#x3C;inizio registrazione traccia></p></figcaption></figure> <figure><img src="../.gitbook/assets/app91 (1).png" alt="" width="183"><figcaption><p>schermata durante la registrazione</p></figcaption></figure></div>
 
 {% hint style="info" %}
 Durante la registrazione di una traccia è anche possibile registrare un waypoint, direttamente dall'icona presente.
@@ -80,16 +60,8 @@ Durante la registrazione di una traccia è anche possibile registrare un waypoin
 
 È possibile scattare una foto o caricarla, selezionandola dalla propria libreria.
 
-<figure><img src="../.gitbook/assets/image (130).png" alt="" width="180"><figcaption><p>schermata &#x3C;caricamento foto></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/acquasorgente_fotocamera.png" alt="" width="183"><figcaption><p>schermata &#x3C;caricamento foto></p></figcaption></figure>
 
 ## Profilo utente
 
-<div>
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (14).png" alt="" width="188"><figcaption><p>menu &#x3C;profilo utente></p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (16).png" alt="" width="188"><figcaption><p>dettaglio traccia registrata,<br>con possibilità di scaricamento</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/26.mobile.webmapp.it_home(Pixel 7) (14).png" alt="" width="188"><figcaption><p>menu &#x3C;profilo utente></p></figcaption></figure> <figure><img src="../.gitbook/assets/mobile_profilo_track.png" alt="" width="183"><figcaption><p>dettaglio traccia registrata,<br>con possibilità di scaricamento</p></figcaption></figure></div>

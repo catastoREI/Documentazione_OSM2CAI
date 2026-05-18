@@ -6,12 +6,6 @@ Al fine di assegnare ai percorsi escursionistici un codice univoco, le province 
 
 <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption><p>Suddivisione Aree e Settori</p></figcaption></figure>
 
-{% embed url="http://osm2cai.j.webmapp.it/" %}
-mappa web della suddivisione in Aree e Settori
-{% endembed %}
-
-###
-
 ***
 
 ### Codice REI

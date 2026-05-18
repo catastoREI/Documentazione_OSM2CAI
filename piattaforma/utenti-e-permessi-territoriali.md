@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Utenti e Permessi territoriali
 
 La gerarchia degli utenti della piattaforma OSM2CAI rispecchia la suddivisione territoriale della SOSEC (Direttivo, Gruppi Regionali, Gruppi sezionali)
